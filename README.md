@@ -95,18 +95,6 @@ body gói tin:
 }
 ```
 
-- Có thể lựa chọn run toàn bộ model bằng lệnh sau:
-```
-python app.py --all_model=1
-```
-
-Hiện tại chỉ support các model có model_type thuộc ['bilstm', 'character', 'attention', 'character-attention'], body gói tin có dạng sau: 
-```json
-{
-  "text": "Thầy giáo giảng bày nhiệt tình",
-  "model_type" : "bilstm"
-}
-```
 
 
 
