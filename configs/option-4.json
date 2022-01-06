@@ -1,0 +1,36 @@
+{
+  "leaner": {
+    "train_path": "data/processed/train.csv",
+    "val_path": "data/processed/val.csv",
+    "test_path": "data/processed/test.csv",
+    "text_col": "text",
+    "label_col": "sentiment",
+    "serialization_dir": "models/SentimentCLF-retrain-upsample",
+    "vocab_count_path": {"tokens": "pretrained/viki_adapt/viki_adapt_w2v_vocab.txt"},
+    "vocabulary_dir": null,
+    "extend_vocab": true,
+    "token_characters": false,
+    "max_tokens": 100,
+    "min_count": {"tokens": 3},
+    "model_name": "TextClassifier",
+    "embedding_dim":100,
+    "char_embedding_dim":34,
+    "ngram_filter_sizes":[3],
+    "num_filters":34,
+    "hidden_size":128,
+    "dropout":0.4,
+    "num_layers":2,
+    "pretrained_w2v_path":"pretrained/viki_adapt/viki_adapt_w2v.txt",
+    "pretrained_c2v_path": null,
+    "char_encoder_path": null,
+    "seq_encoder_path": null,
+    "model_weight_path": null
+  },
+  "training": {
+    "lr": 0.001,
+    "weight_decay": 0.001,
+    "batch_size": 256,
+    "num_epochs": 7,
+    "grad_clipping": 5
+  }
+}

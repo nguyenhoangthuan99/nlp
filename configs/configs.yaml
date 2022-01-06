@@ -1,0 +1,81 @@
+DATA:
+  LABEL:
+    sentiment:
+      negative: 0
+      neutral: 1
+      positive: 2
+    topic:
+      lecturer: 0
+      program: 1
+      facility: 2
+      other: 3
+  GENERAL:
+    data_path: data/processed
+    max_char_len: 20
+    max_seq_len: 162
+    thresh_count_word: 0
+    char_vocab_path: data/vocab/char_vocab.txt
+    vocab_path: data/vocab.txt
+    test_name: test.csv
+    train_name: train.csv
+    val_name: val.csv
+
+  LANGUAGE_MODEL_DATA:
+    data_path: data/lm
+    test_name: test_lm.txt
+    train_name: train_lm.txt
+    val_name: null
+  RAW:
+    data_path: data/raw
+  NORMALIZE:
+    lower: true
+    cleaned_emoji: false
+
+MODEL:
+  DECODER:
+    att_method: general
+    hidden_size: 128
+    mode: all
+    n_labels: 27
+  ENCODER:
+    char_embed_size: 25
+    char_embed_type: rnn
+    char_padding_idx: 0
+    char_vocab_size: 140
+    dropout: 0.4
+    encoder_name: LSTMEncoder
+    hidden_size: 128
+    load_encoder: false
+    load_w2v: true
+    n_rnn_char: 20
+    n_rnn_layers: 3
+    n_self_atts: 1
+    num_heads: 4
+    rnn_dropout: 0.3
+    rnn_size_char: 25
+    use_char_embedding: false
+    word_embed_size: 50
+    word_padding_idx: 0
+    word_vocab_size: 5106
+  LMDECODER:
+    decoder_name: SeqLinearDecoder
+    hidden_size: 128
+    model: null
+    n_labels: null
+  MODEL_PATH:
+    encoder_name: encoder.pth
+    lm_dir: models/lm
+    model_dir: models
+    w2v_path: models/pre_trained
+TRAIN:
+  batch_size: 64
+  checkpoint: true
+  clipping_gradient: 5
+  early_stop_max_epochs: 3
+  learning_rate: 0.0001
+  max_char_len: null
+  max_seq_len: null
+  n_retrain: 1
+  num_epochs: 200
+  show_step: true
+  stop_thresh: 0.0001

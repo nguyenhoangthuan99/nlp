@@ -1,0 +1,11 @@
+allennlp==2.2.0
+allennlp-models==2.2.0
+scikit-learn
+torch
+numpy
+pandas
+matplotlib
+gensim
+keras
+flask
+flask-cors

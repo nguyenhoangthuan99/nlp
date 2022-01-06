@@ -1,0 +1,1 @@
+{"text_col": "text", "label_col": "sentiment", "max_tokens": 100, "embedding_dim": 100, "char_embedding_dim": 34, "ngram_filter_sizes": [3], "num_filters": 34, "hidden_size": 128, "dropout": 0.4, "num_layers": 2, "bidirectional": true, "serialization_dir": "model_done/character_attention/sentiment", "token_characters": true, "model_name": "AttentionClassifier", "seed": 1}

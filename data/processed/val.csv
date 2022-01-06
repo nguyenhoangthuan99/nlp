@@ -1,0 +1,1584 @@
+text,sentiment,topic
+giáo trình chưa cụ thể .,negative,program
+giảng buồn ngủ .,negative,lecturer
+"giáo viên vui tính , tận tâm .",positive,lecturer
+"giảng viên nên giao bài tập nhiều hơn , chia nhóm để làm bài tập , giảng kỹ những vấn đề trọng tâm của môn học , đưa ra phương pháp để học hiệu quả hơn .",negative,lecturer
+"giảng viên cần giảng bài chi tiết hơn , đi sâu hơn code và chạy thử chương trình có trong bài giảng nếu được .",negative,lecturer
+nên có giảng viên nước ngoài dạy để sinh viên có cơ hội thực hành giao tiếp .,negative,lecturer
+nên có bài tập lớn đồ án môn học .,negative,program
+"giảng viên đảm bảo nội dung học , phân tích giải nhiều bài tập .",positive,lecturer
+"nêu rõ mục tiêu , mục đích môn học để sinh viên tiếp thu dễ dàng .",negative,program
+có một số vấn đề nói chưa rõ .,negative,program
+"giáo viên tận tình , chuẩn bị bài học chu đáo .",positive,lecturer
+giảng viên dạy hay và tâm huyết .,positive,lecturer
+"cách tính học phí đối với môn thực hành không được rõ ràng và minh bạch , trong khi học thực hành sinh viên hầu như không sử dụng máy tính của trường và kiến thức học được từ giảng viên là rất ít so với học lý thuyết .",negative,program
+nói chuyện dễ nghe .,positive,lecturer
+"hiểu được mục tiêu của môn học , thầy nhiệt tình giúp đỡ sinh viên .",positive,lecturer
+"cô dạy khó hiểu , phải về nhà học thêm nhiều mới hiểu những gì cần thiết cho môn học .",negative,lecturer
+"truyền đạt tốt , bám sát đề thi , bài giảng cung cấp đầy đủ .",positive,lecturer
+thầy cô dạy rất nhiệt tình !,positive,lecturer
+em không có bất cứ một lời phê bình nào .,neutral,other
+"nội dung học quá trừu tượng , thực hành chưa thực sự mang lại hiệu quả , đa phần sinh viên thực hành theo bài tập được giao , thực hành xong không biết mình đang làm gì , không thấy được ý nghĩa thực tiễn của môn học .",negative,program
+cô nên thêm phần điểm đi học thực hành .,negative,lecturer
+cách nói chuyện với sinh viên gây mất cảm tình của sinh viên đối với giảng viên .,negative,lecturer
+"đồng thời , bài giảng , theo em nhìn nhận , thực sự rất chi tiết .",positive,program
+truyền đạt kiến thức .,neutral,lecturer
+rất ấn tượng với những bài tập thở giúp cho não bộ được nghĩ ngơi của cô .,positive,lecturer
+"thầy rất nhiệt tình , giảng bài rất hay và dễ hiểu .",positive,lecturer
+"nhưng em không mấy hài lòng về cách giải quyết vấn đề của giảng viên khi giảng viên đã đi trễ như vậy , thầy trực phòng thực hành lên tiếng bảo em ( và một số bạn khác ) ra về .",negative,lecturer
+đôi khi giảng dạy quá nhiệt tình mà quên mất cả thời gian ( hết giờ học giảng viên vẫn dạy thêm 10 - 15 phút ) .,negative,lecturer
+ôn tập kỹ trước khi thi hoặc trong lúc giảng dạy cập nhật đến những vấn đề có thể cho ra trong bài thi .,negative,lecturer
+"sự nhiệt tình , vui tính của giảng viên .",positive,lecturer
+"thầy cho tự tìm hiểu , và tự tìm hiểu khác với hiểu được vấn đề .",neutral,lecturer
+"cô dạy đều , bao giờ cũng đến sớm và đúng giờ .",positive,lecturer
+"thầy dạy hay và có tâm , mặc dù môn học lịch sử khá khô khan nhưng chúng em hiểu được rất nhiều bài học qua bài giảng của thầy .",positive,lecturer
+mong thầy dạy tận tâm hơn !,negative,lecturer
+thầy chưa có sự hướng dẫn cụ thể .,negative,lecturer
+không đi đúng giờ .,negative,lecturer
+môn này khó .,negative,program
+tạm được .,neutral,other
+rât tốt .,positive,other
+"khi ra đề thi thầy nên kiểm tra kỹ nội dung đề , tránh để sót lỗi điển hình như doubledot tên cột của bảng trùng từ khóa của oracle .",negative,lecturer
+giảng viên chưa cho sinh viên bài tập về nhà .,negative,lecturer
+giảng viên chỉ lên lớp còn lại không hướng dẫn nội dung thực hành cho sinh viên .,negative,lecturer
+thầy giảng bài dễ hiểu .,positive,lecturer
+giảng bài nghe rất dễ hiểu vui tính .,positive,lecturer
+giảng viên thực hành chỉ gặp sinh viên rất ít .,negative,lecturer
+còn đi trễ .,negative,lecturer
+"thầy dạy hay , demo code trực tiếp cho sinh viên dễ hiểu .",positive,lecturer
+giáo trình nên có sự trình bày cụ thể hơn .,negative,program
+"thầy vui tính , chuyên môn vững .",positive,lecturer
+"dạy đúng đề cương , ôn tập sát với đề thi .",positive,lecturer
+"cô dạy bài tập rất tận tình , dễ hiểu .",positive,lecturer
+cô rất nghiêm .,negative,lecturer
+"đề cập về tính thực tế , liên quan của hệ thống kiến thức .",positive,program
+"mỗi khi cần giảng giải bài tập , kiến thức , vấn đề gì mà sử dụng đến mạng wifi thì rất tệ làm tốn thời gian của thầy và sinh viên .",negative,facility
+"thầy rất nhiệt tình , sẵn sàng trả lời câu hỏi sinh viên .",positive,lecturer
+nhà trường nên cập nhật visual studio lên phiên bản mới nhất để tụi em thực hành tốt hơn .,negative,facility
+em hy vọng nhà trường cải thiện lại các máy trong phòng thực hành để tương ứng với số tiền đối với số chỉ thực hành .,negative,program
+quá khó khăn trong việc báo cáo bài .,negative,lecturer
+"cô dạy đến hơi thở cuối cùng , rất tận tâm với sinh viên , sinh viên không rõ vấn đề gì đề giải thích cặn kẽ , lâu lâu trong giờ học kể những vấn đề có liên quan tới môn học giúp cho sinh viên định hướng được học môn này để làm gì tạo hứng thú cho sinh viên học tập , đặc biệt cô có giờ tiếp sinh viên định kỳ để để hỗ trợ sinh viên em rất thích điều này .",positive,lecturer
+ngoài ra cung cấp một vài thông tin bổ sung về việc học công nghệ thông tin hiệu quả hơn .,positive,program
+cô dạy nhiệt tình và dễ hiểu .,positive,lecturer
+"giảng dễ hiểu , cho bài tập đầy đủ .",positive,lecturer
+"thầy vui tính , rất nhiệt tình với sinh viên .",positive,lecturer
+sự nhiệt tình và liên hệ thực tế của giáo viên .,positive,lecturer
+tận tình chỉ bảo .,positive,lecturer
+"mong giảng viên có thể liên hệ bài học với thực tế , cho ví dụ nhiều hơn sinh viên có thể hiểu được bài .",negative,lecturer
+giảng viên giảng nhiều bài tập và tăng cường ôn tập ngữ pháp và luyện nói .,positive,lecturer
+"tụi em tới để học chứ không phải để nghe cô chê bai người việt này nọ lọ chai , không phải để nghe việc cô đi dạy người nước ngoài nói tiếng việt , cô cũng đừng đánh giá người ta nói cái gì cho cả một tập thể .",negative,lecturer
+đề thi khó .,negative,program
+không check mail mỗi khi hỏi bài .,negative,lecturer
+nhiều tài liệu hữu ích .,positive,program
+"đồ án cuối kỳ trong vòng một tháng cuối , áp dụng được quy trình thực tế .",positive,program
+thúc đẩy sinh viên tự học đạt điểm cao trong các kỳ thi .,positive,program
+thì hiện nay khóa 5 đang học môn này có cảm nhận vẫn còn là con  chuột bạch  thử nghiệm cho môn học .,negative,program
+"thầy rất nhiệt tình , vui tính , dạy dễ hiểu và cặn kẽ .",positive,lecturer
+giảng viên nói tiếng anh không hay .,negative,lecturer
+các công thức đã có sự đổi mới nên cô cần cập nhật thêm ( betweenness centrality và closeness centrality ) tránh áp đặt kiến thức lên sinh viên .,negative,lecturer
+thầy không quan tâm đến học sinh .,negative,lecturer
+"mong nhà trường cần nâng cấp các phòng thực hành , và phong lab khoa .",negative,facility
+"nhưng cách truyền đạt và cách dạy học rất buồn ngủ , không hiệu quả , rắc rối .",negative,lecturer
+"giảng viên vui vẻ , thoải mái trong giờ học , không gây áp lực .",positive,lecturer
+không dễ tính .,negative,lecturer
+"giảng rất hay và dễ hiểu , giúp cho sinh viên nắm vững kiến thức .",positive,lecturer
+"giảng viên giảng dạy nhiệt tình , có đầy đủ các hoạt động để sinh viên rèn luyện và học tập .",positive,lecturer
+"giảng viên không dạy phần trọng tâm của môn học , dạy quá dài dòng , và cần hạn chế viết bảng .",negative,lecturer
+"giảng viên chưa giải hết thắc mắc của sinh viên , còn một vài vấn đề chưa hiểu rõ .",negative,lecturer
+"cô dạy vui , dễ hiểu .",positive,lecturer
+được 200 điểm là đươc 1 điểm quá trình .,neutral,program
+chất lượng tốt .,positive,other
+tôi thấy rất bất mãn về việc giảng dạy của giảng viên mong nhà trường chấn chỉnh lại việt này .,negative,lecturer
+"giảng viên giảng dạy dễ hiểu , nhanh tiếp thu bài , đưa ra các ví dụ và bài tập hay .",positive,lecturer
+thầy giảng bài quá buồn ngủ .,negative,lecturer
+"thầy vui tính , dạy rất dễ hiểu và rất nhiệt tình .",positive,lecturer
+các bài thực hành cần bám sát theo chương trình lý thuyết .,negative,program
+tài liệu được cấp thông qua lớp trưởng .,neutral,program
+"nhiệt tình , tài liệu đầy đủ dễ đọc dễ hiểu .",positive,lecturer
+thầy vui tính trong việc dạy .,positive,lecturer
+"thầy rất tân tâm , vui vẻ , và có khả năng truyền đạt kiến thức .",positive,lecturer
+"slide bài giảng đầy đủ rõ ràng , giáo viên đúng giờ .",positive,lecturer
+cô vui vẻ trong giảng dạy .,positive,lecturer
+"tận tình , chu đáo , hiểu tâm lý sinh viên .",positive,lecturer
+"giảng viên giảng dạy tận tâm , nhiệt huyết .",positive,lecturer
+"giáo viên dễ gần , phương pháp dạy dể tiếp thu .",positive,lecturer
+"thầy mở máy lạnh lạnh quá ạ , mong thầy bật máy lạnh vừa phải thôi !",negative,lecturer
+giảng viên nên trình bày mẫu các bài giải nhiều hơn .,negative,lecturer
+dành ra những tiết thực hành nghe nói riêng tạo sự tự nhiên cho sinh viên khi giao tiếp bằng tiếng anh .,positive,program
+cô giáo xinh .,positive,lecturer
+"giảng hay , dễ hiểu .",positive,lecturer
+thầy dạy cho nhiều dạng bài tập ví dụ hay giúp em hiểu rõ hơn môn mạng .,positive,lecturer
+chia sẻ kiến thức thực tế cho sinh viên .,positive,other
+"thầy cũng vui tính , nói chuyện liên hệ thực tiễn cao .",positive,lecturer
+"nội dung không sâu , sơ sài .",negative,program
+"giáo viên nhiệt tình , thân thiện .",positive,lecturer
+chủ yếu dựa vào năng lực tự học của sinh viên .,negative,lecturer
+"đúng giờ , tận tình .",positive,lecturer
+thầy lên lớp đúng giờ .,positive,lecturer
+"giọng cô khó nghe , cô truyền đạt chưa hay , giảng nhanh .",negative,lecturer
+sự nhiệt tình .,neutral,lecturer
+"thầy cho ít bài tập để làm , toàn bộ bài tập em làm đều là do các bạn ở lớp khác chia sẻ .",negative,lecturer
+thầy dạy rất truyền cảm .,positive,lecturer
+thầy rất đúng giờ .,positive,lecturer
+cô có tổ chức một hoạt động về anh văn nhưng em thấy chưa thực sự có hiệu quả ( đó là ý kiến cá nhân của em ) .,negative,lecturer
+"giảng khó hiểu , nhưng phần lớn là do môn giải tích khó .",negative,lecturer
+"cô tạo được một môi trường học tập rất thân thiện , thoải mái và không kém phần bổ ích cho sinh viên , hy vọng cô sẽ dạy nhiều hơn .",positive,lecturer
+khi nào sinh viên chưa hiểu đều giảng nhiệt tình .,positive,lecturer
+thầy dịch slide và giảng khó hiểu .,negative,lecturer
+không đăng slide bài giảng lên course .,negative,lecturer
+cẩn thận .,neutral,lecturer
+thầy cần chủ động về thời gian .,negative,lecturer
+"thầy giáo tích cực , tâm lý .",positive,lecturer
+"thầy tận tâm , nhiệt tình với sinh viên .",positive,lecturer
+thầy dạy bám sát nội dung cần thiết nhiệt tình .,positive,lecturer
+em mong thầy sẽ cung cấp chúng em nhiều tài liệu chính thống hơn để chúng em có thể dễ dàng tìm hiểu kiến thức môn học .,negative,lecturer
+"cô dạy nhiệt tình , thường xuyên chia sẻ bài trên website môn học .",positive,lecturer
+đã là chủ nhật còn bắt đi học .,negative,program
+thầy nhiệt tình giảng bài !,positive,lecturer
+quá nhiều nội dung không cần thiết .,negative,program
+thầy giảng kỹ bài .,positive,lecturer
+"cô nhiệt tình với sinh viên , vui vẻ .",positive,lecturer
+"thầy dạy vui tính , không áp lực .",positive,lecturer
+"việc truyền đạt kiến thức theo lối bình dân , khiến sinh viên khó hình dung , nắm bắt được mình đang được truyền đạt điều gì .",negative,lecturer
+và nội dung đó không giúp sinh viên sau này nhiều .,negative,program
+"thầy giảng bài rất nhiệt tình , có các ví dụ minh họa để làm rõ vấn đề .",positive,lecturer
+các bài tập thực hành giúp nâng cao kiến thức đã học trên lớp .,positive,program
+báo nghỉ không đại trà .,negative,lecturer
+"cô dạy hay tuyệt , rất dễ hiểu .",positive,lecturer
+thầy giao đồ án cho sinh viên tự bơi .,negative,lecturer
+"dạy đúng giờ , thường xuyên đưa bài tập lên moodle , tạo cơ hội cho học sinh rèn luyện kỹ năng nghe và nói nhiều .",positive,lecturer
+giảng viên giảng chưa được thú vị .,negative,lecturer
+em muốn thầy dạy và sửa bài tập .,negative,lecturer
+đừng có một chỗ tiếng anh một chỗ tiếng việt .,negative,other
+giảng dạy hay dễ hiểu .,positive,lecturer
+cần sử dụng phòng elab và các thiết bị nghe nhìn cho lớp chất lượng cao .,negative,facility
+thầy nhiệt tình trong cách giảng dạy .,positive,lecturer
+"theo như danh sách phòng đào tạo đưa xuống , lớp học có gần 140 sinh viên đăng kí .",neutral,other
+môn này là môn quan trọng trong truyền thông nên cần thực hành trên phần mềm và thiết bị mô phỏng nhiều hơn .,negative,program
+giảng viên giảng dạy theo đúng quy trình .,neutral,lecturer
+"hiện tại tương đối tốt , không cần điều chỉnh gì thêm .",positive,other
+"giảng dạy tận tâm , nhiệt tình , hay .",positive,lecturer
+vui tính hoà đồng .,positive,lecturer
+"giảng viên thường cho một số bài tập nâng cao , hơi quá sức đối với tụi em .",negative,lecturer
+"thầy khá hiền , ít nói .",negative,lecturer
+"cô dạy dễ hiểu , bài giảng sống động .",positive,lecturer
+"thầy cho bài tập về quá nhiều , thời gian cố định , ngắn nên không đủ thời gian để làm bài .",negative,lecturer
+"giáo viên dạy tận tình , dễ hiểu , hay giải đáp những thắc mắc của sinh viên về môn học .",positive,lecturer
+nhà trường nên có nhiều giáo trình bài tập và hướng dẫn giải bài tập nhiều hơn .,negative,program
+"tận tâm , nhiệt tình giải đáp thắc mắc trong quá trình học .",positive,lecturer
+"thầy dạy vui , không khô khan , liên tưởng tốt .",positive,lecturer
+tệ đến mức không tả được .,negative,other
+"giảng viên diễn đạt quá nhanh , lớp thường rất đông , rất thiệt thòi cho sinh viên ngồi cuối lớp do không nhìn thấy nội dung bài giảng .",negative,lecturer
+thầy không cho slide bài giảng cũng không giới thiệu tài liệu đọc thêm .,negative,lecturer
+nếu là điểm cố định thì thầy phải cho cơ hội cho tất cả các sinh viên đều nộp bài được và giải thích rõ ràng khung điểm này từ đầu .,negative,lecturer
+thầy tiếp tục giảng bài .,neutral,lecturer
+"tài liệu thầy cung cấp đầy đủ , cụ thể .",positive,lecturer
+cực kỳ nhiệt tình .,positive,other
+"thầy ít có giảng về bài tập , chỉ cho sinh viên tự tìm hiểu .",positive,lecturer
+giáo viên có kiến thức tốt .,positive,lecturer
+"nhờ thầy cho bài tập và sửa thầy không làm , và cũng giảng nhưng mà để làm được bài thì em muốn có được cách làm rõ ràng .",negative,lecturer
+"học thầy rất là vui , mà còn biết thêm nhiều cái hay nữa .",positive,lecturer
+có thể tổ chức các buổi seminar nhằm kích thích sinh viên tìm hiểu thêm và ứng dụng tốt hơn môn học này vào thực tiễn .,positive,program
+"thầy giảng bài khá là dễ hiểu , chậm nhưng chắc .",positive,lecturer
+"dạy dễ hiểu , và cung cấp thêm những phương pháp học tập hiệu quả .",positive,lecturer
+"cô dạy rất dễ thương , dễ hiểu , nắm chắc kiến thức .",positive,lecturer
+"thầy giảng dạy nhiệt tình , hăng say !",positive,lecturer
+"thêm nữa , thầy cũng không muốn nhìn thấy một sinh viên ngủ gục trên bàn mà vẫn có tên trong danh sách điểm danh .",negative,lecturer
+thầy dạy dễ hiểu tận tâm nhiệt tình với sinh viên .,positive,lecturer
+giải bài tập cho sinh viên nhiều .,positive,other
+môn mạng máy tính còn nặng nề lý thuyết rất nhiều .,negative,program
+thầy giảng bài rất hay !,positive,lecturer
+không áp lực khi học tập .,neutral,lecturer
+"tiết học căng thẳng , phải thường xuyên đúng giờ .",negative,lecturer
+"nhưng thầy rất ra dáng một doanh nhân thành đạt , một người diễn thuyết tạo cảm hứng nhiều hơn là kiến thức phù hợp với sinh viên .",positive,lecturer
+thầy lồng ghép ví dụ thực tiễn vào bài học .,positive,lecturer
+"cô dạy nhiệt tình và có tâm huyết , dễ hiểu , cô dạy rất hay và cung cấp cho em nhiều kiến thức , trình độ của cô rất giỏi .",positive,lecturer
+nâng cấp hệ thống loa cho các phòng học .,negative,facility
+"giảng viên nhiệt tình , tâm huyết , giảng dạy tốt .",positive,lecturer
+đề nghị trừ lương .,negative,lecturer
+"thầy dạy hay nhưng không ôn tập thi giữa kỳ , cuối kỳ cho sinh viên .",negative,lecturer
+thầy dạy hay và tận tâm với em .,positive,lecturer
+"nhiệt tình , tận tâm , giảng dễ hiểu .",positive,lecturer
+"em thích cách dạy của thầy , làm bài tập sau khi giảng xong lý thuyết cho sinh viên có thể nhớ ngay hôm ấy không cần về nhà coi lại bài .",positive,other
+giảng viên cần đảm bảo thời gian lên lớp .,negative,lecturer
+giảng viên cho bài tập bám sát nội dung giảng dạy .,positive,lecturer
+giảng viên nhiệt tình !,positive,lecturer
+máy chiếu tại phòng học còn mờ .,negative,facility
+viết quá nhiều ví dụ trùng lặp ( dạng ) với nhau .,negative,lecturer
+tài liệu môn mạng máy tính được dịch từ computer networking a topdown aproach còn hơi khó hiểu để sinh viên học hay tự nghiên cứu .,negative,program
+thầy rất nhiệt tình giảng dạy .,positive,lecturer
+"em mong muốn được nghe thầy kể nhiều câu chuyện về sự nghiệp và cuộc đời , gian nan từng trải của thầy trong các bài học nhiều hơn nữa , có lẻ sinh viên sẽ học được nhiều điều hơn .",negative,lecturer
+"em thấy lúc giảng , thầy chỉ ngồi yên trên ghế và đọc slide dẫn đến sinh viên cảm thấy nhàm chán .",negative,lecturer
+thầy dạy rất dễ hiểu .,positive,lecturer
+"dạy chắc chắn kiến thức , truyền đạt tốt .",positive,lecturer
+"thầy dạy rất hay , quan tâm học sinh .",positive,lecturer
+giáo trình môn học được cập nhật .,positive,program
+thầy thường xuyên đặt ra những deadline không phù hợp với sinh viên .,negative,lecturer
+phương pháp dạy thực hành rất hay .,positive,lecturer
+"giảng viên tận tâm , nhiệt tình , dễ tính , lên lớp đúng giờ .",positive,lecturer
+quá khắt khe colonsad .,negative,other
+em mới gặp thầy buổi thực hành cũng là buổi thi .,neutral,program
+"cô dạy hay , lại rất đúng giờ dạy học .",positive,lecturer
+giải đáp rất tận tình mọi thắc mắc của sinh viên .,positive,lecturer
+"cô dễ thương , tận tâm với sinh viên .",positive,lecturer
+cách giảng của thầy hơi đều và chậm .,negative,lecturer
+"giảng viên nhiệt tình , tạo nhiều hoạt động cho lớp .",positive,lecturer
+cần thể hiện chi tiết hơn nội dung của môn học và nhiều ví dụ minh hoạ hơn .,negative,program
+không đảm bảo giờ lên lớp .,negative,lecturer
+"mỗi khi báo cáo tiến độ đồ án trong năm học , giảng viên chỉ chỉ ra duy nhất một lỗi trong đồ án cho sinh viên , mà không xem toàn bộ đồ án để góp ý cho sinh viên mọi sai sót để sinh viên khắc phục trong lần báo cáo cuối kỳ .",negative,lecturer
+quá tệ .,negative,other
+"giảng viên tận tâm , nhiệt tình , vui vẻ .",positive,lecturer
+tăng thêm thời lượng môn học .,negative,program
+giúp học sinh chủ động trong việc thực hiện đề tài và nhiệt tình giúp đỡ sinh viên tìm tài liệu .,positive,program
+cung cấp nhiều kiến thức bổ ích cho sinh viên .,positive,lecturer
+"giảng viên nhiệt tình trong giảng dạy , hệ thống tài liệu học tập được update tốt .",positive,lecturer
+giáo viên nhiệt tình giảng dạy .,positive,lecturer
+thầy dạy rất nhiều điều bổ ích từ học tập đến cuộc sống ngoài đời .,positive,lecturer
+"cách diễn đạt dễ hiểu , vui vẻ , tận tình với học sinh .",positive,lecturer
+"hay đi trễ , dạy lố thời gian .",negative,lecturer
+tận tình chu đáo dễ hiểu .,positive,lecturer
+giải đáp thắc mắc sinh viên kỹ lưỡng .,positive,lecturer
+"phần đầu môn này nói về những chủ đề đại loại như  làm thế nào để thành công  ,  thói quen người thành công  hay là bàn về tương lai vdotv .",neutral,other
+"dạy nhiệt tình , vui vẻ trong giờ học .",positive,lecturer
+như vậy là được .,positive,other
+thấy rất vui tính .,positive,lecturer
+"giảng dạy quoa loa , thiếu nhiệt tình , chương trình học hoàn toàn không ăn khớp với lý thuyết .",negative,lecturer
+giảng viên nên dạy kỹ hơn các phần quan trọng của bài học .,negative,lecturer
+"giáo viên không nhiệt tình , tận tâm với sinh viên .",negative,lecturer
+"môn học này không có sắp xếp lịch học , phòng học .",negative,program
+"nhiều bạn phải học tiết 4 , 5 phải nghỉ giữa chừng để đi học môn khác như tư tưởng .",negative,program
+khả năng tiếng anh .,neutral,other
+không công bố điểm giữa kỳ sớm .,negative,program
+nên giảng những phần cần chú trọng nhiều hơn .,negative,lecturer
+phương pháp giảng tốt .,positive,lecturer
+thầy dạy dễ hiểu !,positive,lecturer
+"thầy lên lớp rất trễ , giờ học bắt đầu vào lúc 13h00 thì có hôm 13h30 hoặc 14h00 thầy mới vô .",negative,lecturer
+"thầy dạy hay , cung cấp thông tin rất chi tiết , ví dụ dễ hiểu .",positive,lecturer
+"giảng viên vui vẻ , giảng dạy tận tâm , đến lớp đầy đủ đúng giờ .",positive,lecturer
+giảng viên tận tâm nhiệt tình vui vẻ .,positive,lecturer
+giọng nói khó truyền đạt kiến thức một cách hiệu quả nhất .,negative,lecturer
+học còn khá tẻ nhạt .,negative,other
+"giọng nói hơi nhỏ , khó tiếp thu !",negative,lecturer
+"dạy rất kỹ , rất nhiệt tình , thêm giờ để hoàn thành xong bài giảng , hỏi han sinh viên , nói chung là rất tuyệt .",positive,lecturer
+thực hành nhiều hơn .,negative,program
+"tiết học vui vẻ , thoải mái , thầy dạy nhiệt tình , dễ tiếp thu .",positive,lecturer
+nhiều phần nâng cao thường bị giảng viên bỏ qua .,negative,lecturer
+dời lịch hẹn gặp sinh viên nhưng không thông báo .,negative,lecturer
+"phòng học , micro , máy chiếu cần nâng cấp và cải thiện và bảo trì thường xuyên hơn .",negative,facility
+tận dụng hết thời gian .,positive,lecturer
+"thầy dạy tận tâm , nhiệt tình , tạo nhiều điều kiện giúp đỡ , hỗ trợ sinh viên học tập tốt môn học .",positive,lecturer
+đôi lúc giảng quá nhanh .,negative,lecturer
+"thầy dạy với tư tưởng là sinh viên biết hết cả rồi , lên giảng dạy chỉ nói vài chỗ .",negative,lecturer
+cần đổi mới tài liệu .,negative,program
+do đó làm hiệu quả học chưa đạt mức tốt nhất .,negative,other
+"tận tâm , nhiệt tình giảng dạy , tiết học có lồng ghép nhiều chuyện đời vui vẻ , lý thú , không gây buồn ngủ .",positive,lecturer
+"hoạt động dạy và học rất sôi nổi , rất tận tâm và nhiệt huyết !",positive,other
+"nhiệt tình , tạo không khí học tập tốt .",positive,lecturer
+thầy nên up các bài giải lên để em so sánh kết quả cho dễ .,negative,lecturer
+"cơ sơ vật chất tốt , giảng hay .",positive,lecturer
+"em nghĩ nhà trường nên nâng cấp phiên bản của sql vì sql 2005 mà nhà trường đang cho sinh viên thực hành còn thiếu sót nhiều chức năng , hỗ trợ .",negative,facility
+"giảng viên cũng hỗ trợ nhiều kiến thức cho sinh viên , giúp sinh viên hiểu bài tốt hơn .",positive,lecturer
+dạy nói hơi nhỏ .,negative,lecturer
+em thấy cô dạy rất hay .,positive,lecturer
+thầy dạy rất nhiệt tình .,positive,lecturer
+"sinh viên lớp chất lượng cao nhưng lại xếp thi phòng thực hành của lớp thường , việc cấu hình máy mất hơn nửa tiếng cho cả lớp , chưa kể còn nhiều bất cập khi làm bài thi .",negative,facility
+"cách truyền đạt kiến thức dễ hiểu , sự hài hước vui vẻ .",positive,lecturer
+"phương pháp dạy của thầy rất hay , cho điểm rất rõ ràng .",positive,lecturer
+tận tình nhiệt huyết .,positive,lecturer
+"giáo viên giảng bài dễ hiểu , nhiệt tình .",positive,lecturer
+"tận tâm , nhiệt tình , đúng giờ .",positive,lecturer
+"cô nhiệt tình , tận tâm , dạy dễ hiểu , quan tâm học sinh , lớp hoạt động sôi nổi , phát âm dễ nghe , dễ hiểu .",positive,lecturer
+"giáo viên dạy nhiệt tình , dễ hiểu .",positive,lecturer
+cách thức diễn đạt chưa đạt hiệu quả tốt .,negative,lecturer
+nội dung bài giảng khó hiểu .,negative,lecturer
+không hài lòng với sự cố gắng của bản thân mình .,negative,other
+lịch học bù không phù hợp với sinh viên .,negative,lecturer
+một người thầy như vậy thì làm sao có thể dạy được học sinh tốt .,negative,lecturer
+"đúng từng câu chữ thì ok , còn lại failse .",negative,program
+good .,positive,lecturer
+khó tính .,negative,lecturer
+do học khoa khác nên dạy không theo kịp tiếng độ của chương trình .,negative,lecturer
+"giảng viên dạy hay , tận tâm , dễ hiểu bài .",positive,lecturer
+giảng viên tận tâm và nhiệt tình .,positive,lecturer
+quan tấm sinh viên nhiều hơn .,negative,lecturer
+giáo viên nên làm nhiều bài tập mẫu cho sinh viên .,negative,lecturer
+không nên dừng lại chỉ ở mức khái niệm .,negative,program
+"mong muốn nhà trường , khoa cùng giảng viên có thể thay đổi nội dung sao cho hấp dẫn hơn .",negative,program
+nhiệt tình yêu nghề .,positive,lecturer
+"ít kinh nghiệm , dạy khó hiểu , kỹ năng giao tiếp kém , giảng bài cực khó hiểu .",negative,lecturer
+"dễ hiểu , tích cực trong việc giải đáp thông tin của học sinh .",positive,lecturer
+thầy thân thiện .,positive,lecturer
+hướng dẫn dạy học tận tình .,positive,lecturer
+speaking vừa rồi cô không công bằng .,negative,other
+"em không thể nghe được thầy nói gì do khác vùng miền , cách giảng dạy chưa có sức hấp dẫn .",negative,lecturer
+"cần giảm bớt căng thẳng , dồn dập tiết học .",negative,program
+cô hướng dẫn làm đồ án rất nhiệt tình .,positive,lecturer
+"thầy giảng hay , dễ hiểu , có nhiều ví dụ .",positive,lecturer
+"thầy dạy nhiệt tình , kiến thức bộ môn chuyên sâu , cần phát huy .",positive,lecturer
+"giảng viên giảng dạy tốt , dễ hiểu .",positive,lecturer
+"giảng viên giảng bài khó hiểu , đặt nặng lý thuyết khiến sinh viên khó hiểu dễ gây chán nản .",negative,lecturer
+"nhiệt tình , nhưng đôi khi quá nhiệt tình , giảng bài một cách quá nhiều khiến em không thể nhớ hết được .",negative,lecturer
+ôn kiến thức bằng cách chơi trò chơi .,positive,program
+môn này thầy dạy rất mơ hồ .,negative,lecturer
+môn học cần phải gần gũi với thực tiễn ở việt nam .,negative,program
+"cô rất nhiệt tình , tận tâm và gần gũi .",positive,lecturer
+giảng viên dạy rất dễ hiều .,positive,lecturer
+"thầy có lòng giúp sinh viên , rất tốt .",positive,lecturer
+cần tạo cảm hứng học hơn cho sinh viên .,negative,lecturer
+sau môn học toàn kiến thức lý thuyết mà không biết vận dụng kiến thức đó như thế nào .,negative,program
+mini test trong cả khóa học nhiều hơn .,negative,facility
+đồ án thầy phân tích rất chuyên sâu .,positive,lecturer
+thầy cần sử dụng máy chiếu khi giảng bài vì lớp khá đông !,negative,lecturer
+"thầy giảng dạy những phần kiến thức có hơi cao , sinh viên không nắm bắt kịp .",positive,lecturer
+cần lắp thêm quạt và màn che cửa sổ .,negative,facility
+"thầy ơi , giảng bài cho tụi em đi !",negative,lecturer
+mong cô giúp đỡ để cải thiện vốn tự vựng tiếng anh .,negative,lecturer
+"cô luôn động viên và định hướng sinh viên trong việc tự rèn luyện , trau dồi kỹ năng ngoại ngữ .",positive,lecturer
+nên có giờ thực hành của môn học này .,negative,program
+giảng dạy tốt đạt hiểu quả cao .,positive,lecturer
+"truyền đạt tốt , dễ hiểu .",positive,lecturer
+"phòng đào tạo và khoa wzjwz84 nên thống nhất lại hình thức thi và nội dung thi cho hợp lý , tránh thay đổi hình thức thi vào gần sát cuối kỳ học .",negative,program
+"giảng viên luôn đến lớp đúng giờ , giảng dạy thân thiện , tận tâm .",positive,lecturer
+"những bài thuyết trình chưa đủ để nâng cao kiến thức của cá nhân , chưa thực sự phù hợp với khả năng hiện tại của bản thân .",negative,program
+nhưng không sao .,neutral,program
+"giảng viên dạy dễ hiểu , hướng dẫn bài tập cụ thể .",positive,lecturer
+"cho thêm bài tập về nhà , đề tài thuyết trình bằng tiếng anh , bài viết .",negative,program
+"giảng viên dạy dễ hiểu , đi dạy đúng giờ .",positive,lecturer
+giảng viên làm việc riêng khi sinh viên báo cáo .,negative,lecturer
+"nhiệt tình , quan tâm giúp đỡ học sinh .",positive,lecturer
+sức khỏe yếu .,negative,lecturer
+giảng viên không sử dụng moodle để sinh viên nộp bài tập mà yêu cầu gửi qua mail cá nhân .,negative,lecturer
+giảng viên quá tệ .,negative,lecturer
+hài lòng hết !,positive,other
+thầy dạy rất đúng giờ .,positive,lecturer
+thầy rất vui tính gần gũi .,positive,lecturer
+lên lớp đầy đủ .,positive,lecturer
+giáo viên lên lớp đúng giờ .,positive,lecturer
+hướng dẫn cách học tiếng anh hiệu quả cho sinh viên !,positive,lecturer
+nhiệt tình với sinh viên .,positive,lecturer
+"đề thi không có tính phân loại về kiến thức nhiều , mà hơn nhau ở chỗ ai tỉ mỉ hơn , ai nhanh hơn .",negative,program
+khả năng sư phạm của cô theo em cần được cải thiện hơn .,negative,lecturer
+thầy đẹp trai colonlove .,positive,lecturer
+giảng viên thường xuyên tương tác với sinh viên trong lúc dạy .,positive,lecturer
+cô nên yêu cầu sinh viên trả lời câu hỏi nhiều hơn .,negative,lecturer
+cung cấp lượng lớn thông tin .,positive,other
+có nhiều thứ bổ ích .,positive,program
+thầy giảng rất kỹ từ lý thuyết cho đến bài tập .,positive,lecturer
+nguyên kỳ này em thấy học được mỗi môn của thầy dạy là vô .,positive,lecturer
+"thầy siêu dễ thương , dạy có tâm .",positive,lecturer
+điều chỉnh trang thiết bị giảng dạy .,negative,facility
+lo cho sinh viên .,positive,lecturer
+đôi khi thầy hơi lan man .,negative,lecturer
+cô giáo tuyệt vời .,positive,lecturer
+"đi dạy đúng giờ , truyền đạt kiến thức dễ nắm bắt .",positive,lecturer
+phần thực hành nếu có phải nộp bài nào để lấy điểm thì nên thông báo lên moodle và cho nộp online .,negative,lecturer
+"sinh viên được chủ động trong giờ học , tự suy nghĩ , tham gia thảo luận về bài học và có liên hệ thực tế .",positive,program
+chưa từng gặp giảng viên wzjwz144 ở môn thực hành thiết bị mạng và truyền thông đa phương tiện .,negative,other
+hoạt động tham quan rất bổ ích .,positive,lecturer
+thầy rất nhiệt huyết trong khi giảng bài .,positive,lecturer
+"thầy dạy hay , dễ hiểu , cho bài tập nhiều nhưng thường quá giờ quy định .",positive,lecturer
+"đôi khi thầy có đến trễ một chút nhưng các nội dung thầy giảng dạy đều đầy đủ , ngoài ra thầy còn tăng thêm các buổi tăng cường trước các ngày thi .",positive,lecturer
+thầy không quan tâm tiến độ và bám sát hoạt động học của sinh viên .,negative,lecturer
+quay video quá trình dạy .,positive,lecturer
+trong quá trình dạy cô có liên hệ thực tế nhiều .,positive,lecturer
+thầy dạy rất nhiệt tình ví dụ và lý thuyết dễ hiểu slide bài giảng tốt .,positive,lecturer
+thầy dạy khá hay và kỹ .,positive,lecturer
+truyền đạt rất tốt .,positive,lecturer
+tận tâm và nhiệt tình trong giảng dạy .,positive,lecturer
+"rất dễ hiểu , bài tập phong phú , đa dạng .",positive,lecturer
+"cô dạy rất tận tình , tạo không khí thoải mái trong lớp học cung cấp tốt mọi kiến thức cho sinh viên quan tâm đến sinh viên .",positive,lecturer
+vui nhiệt tình tận tâm .,positive,lecturer
+yêu cầu bài lab chưa đủ rõ ràng .,negative,program
+"một vấn đề nữa , em mong quý thầy cô tạo một không khí hưng thú cho sinh viên , có thể kể thêm chuyện ngoài lề , bao giờ vui vẻ thì sinh viên cũng học tốt hơn , gò bó ép buộc mình vào một điều gì đó đôi khi lại phản tác dụng , em tin nếu làm được thế sinh viên sẽ tự giác đi học nhiều hơn , còn việc điểm danh thì thủ tục quá gây cho học sinh tâm lý trói buộc .",negative,lecturer
+có chuẩn bị slide bài giảng chi tiết với nhiệt tình .,positive,lecturer
+"thầy dạy nhiệt tình , cập nhật được kiến thức mới .",positive,lecturer
+"giảng viên nhiệt huyết , rất có tâm colonhihi .",positive,lecturer
+"dạy sai kiến thức về fork , sai giải thuật round - robin , sai kiến thức về bộ nhớ .",negative,lecturer
+giảng viên thiếu trách nhiệm .,negative,lecturer
+"rất thích cách dạy của thầy , dễ hiểu , thầy rất tận tình .",positive,lecturer
+"cô vui tính , truyền đạt được ý kiến cho học sinh , tạo môi trường làm việc nhóm hiệu quả .",positive,lecturer
+"cô dạy rất kỹ , nhiệt tình , cô luôn giám sát thái độ và chất lượng học tập của sinh viên , và luôn cóc những bào tập về nhà để sinh viên luyện tập thêm ở nhà .",positive,lecturer
+"giảng viên theo dõi , giám sát quá trình thực hành .",positive,lecturer
+"thầy cho cả lớp tranh luận về các quy luật , các cặp phạm trù , các nguyên lý của chủ nghĩa mác - lênin .",neutral,lecturer
+thầy dạy tâm huyết và nhiệt tình .,positive,lecturer
+"trình bày vấn đề đơn giản , dễ tiếp thu .",positive,lecturer
+"giảng viên nên có bài sửa cho những bài thực hành được cho làm , hoặc giảng lại cách làm sau đó .",negative,lecturer
+cần đảm bảo thời gian lên lớp .,negative,program
+kiến thức truyền đạt .,neutral,other
+"giảng viên nói to rõ , nhiệt tình , tận tâm .",positive,lecturer
+cần tăng thêm bài tập thực tế .,negative,program
+cô tạo không khí vui vẻ và tạo được tinh thần học cho sinh viên .,positive,lecturer
+"nhiệt tình , quan tâm sinh viên .",positive,lecturer
+"thầy dạy nhiệt tình , cho nhiều ví dụ .",positive,lecturer
+không giới thiệu khái quát về nội dung .,negative,program
+tâm huyết giảng dạy của giáo viên .,positive,lecturer
+"những bài giảng thiết thực , kèm theo những hình thức học tập mới lạ làm cho sinh viên cảm thấy bớt căng thắng khi học .",positive,lecturer
+tài liệu ôn tập thi không được cung cấp .,negative,program
+không thông báo rõ ràng lịch học .,negative,program
+"thầy tận tâm nhiệt tình , dạy sát nội dung môn học .",positive,lecturer
+giảng viên khuyến khích sinh viên tự tìm hiểu .,positive,lecturer
+nâng cấp phiên bản của các phần mềm .,negative,facility
+"thầy dạy hay , dễ hiểu bài , em thích điều đó .",positive,lecturer
+"giảng viên vui vẻ , hoạt bát , lun tiếp cận tìm hiểu sinh viên , giúp sinh viên hiểu bài tốt hơn .",positive,lecturer
+mọi mặt đều tốt .,positive,other
+đó là ý kiến cá nhân của em .,neutral,other
+cô đẩy nhanh quá nên chậm lại xíu .,negative,lecturer
+"hướng dẫn và giảng dạy chi tiết , dễ hiểu .",positive,lecturer
+"thầy nhiệt tình , giải đáp thắc mắc kịp thời .",positive,lecturer
+thầy giải thích rất chi tiết nội dung bài .,positive,lecturer
+"thầy cho các nhóm seminar dịch sách tiếng anh nhưng nhiều nhóm làm quá qua loa nên em không hiểu nội dung sách cho lắm , mặc dù thầy có giảng lại .",negative,lecturer
+"thầy dạy nhiệt tình , vui tính , tận tâm !",positive,lecturer
+tạm tạm .,neutral,other
+"nên tăng thời lượng thực hành để đủ thời gian cho giảng viên hướng dẫn thực hành hướng dẫn đầy đủ cho sinh viên , môn này là môn quan trọng trước khi vào chuyên ngành .",negative,program
+buổi học nào thầy cũng có mặt đầy đủ .,positive,lecturer
+"cách dạy không hay , dễ gây nhàm chán .",negative,lecturer
+có đầy nhiệt tình và quan tâm việc học .,positive,lecturer
+nên có các bài tập trên lớp và bài tập hàng tuần để rèn luyện kỹ năng và vận dụng kiến thức học được vào thực tế .,negative,program
+cần tài liệu point word để dễ tiếp thu .,negative,program
+cần phân bố thời gian thực hành và lý thuyết hợp lý hơn .,negative,program
+"giáo viên thân thiện , tận tâm , nhiệt tình .",positive,lecturer
+thầy nên cho sinh viên làm nhiều loại bài tập .,negative,lecturer
+"giáo viên dạy sát chương trình , lượng kiến thức truyền đạt đầy đủ .",positive,lecturer
+"cô dạy hay , rất nhiệt tình với sinh viên .",positive,lecturer
+"phương pháp truyền đạt thú vị , tiết học sôi động không gò bó .",positive,lecturer
+"thầy wzjwz288 nhiệt tình , nghiêm túc .",positive,lecturer
+mong thầy lên lớp đừng muộn quá .,negative,lecturer
+cách học theo nhóm rất hay .,positive,lecturer
+"hướng dẫn tốt , nhiệt tình giải đáp khi sinh viên có thắc mắc .",positive,lecturer
+"giảng viên nhiệt tình dạy tốt , nhưng cô cập nhật điểm lâu , không up bài lên course .",negative,lecturer
+"thầy không chủ động hướng dẫn , gây khó khăn trong việc áp dụng kiến thức .",negative,lecturer
+cuối cùng em không biết môn học làm gì .,negative,program
+"giảng dạy đúng giờ , hiệu quả .",positive,lecturer
+ít bài tập làm thêm .,negative,program
+chưa tạo được nhiều hoạt động trên lớp .,negative,lecturer
+"giải tích là một môn học khó , thầy cần thêm thời gian giảng dạy và cho sinh viên một bài thi phù hợp trình độ đồng đều hơn .",negative,lecturer
+"giảng viên nhiệt tình , vui tính , giảng hay và dễ hiểu .",positive,lecturer
+"em thấy có vài vấn đề ở môn học này , thay vì nó là một môn học có thể thay bằng một đồ án chuyên ngành .",negative,program
+"ngoài ra , các bài hướng dẫn thực hành nên chú trọng vào các vấn đề của môn để sinh viên có thể vừa tiếp cận thực hành và tiếp cận với đồ án cuối kỳ .",negative,program
+quá nghiêm khắc .,negative,lecturer
+một số chỗ nên giảng kỹ hơn .,negative,lecturer
+"điểm thi còn nhiều bất cập , rất nhiều bạn còn phúc kháo .",negative,program
+"giáo viên giảng dễ hiểu , bài tập thầy cho có tính ứng dụng cao , và cần nhiều kiến thức để giải quyết .",positive,lecturer
+"thầy rất nhiệt tình , giảng bài dễ hiểu và tận tâm .",positive,lecturer
+"thầy giảng rõ ràng , dễ hiểu .",positive,lecturer
+bài tập chưa đủ để sinh viên thấu hiểu .,negative,program
+"giảng dạy hay , nhiệt tình , vui tính .",positive,lecturer
+"không hiểu thầy có phải là giảng viên không nữa , nói tiếng anh không thể nào nghe được , còn có thái độ không nghe góp ý của sinh viên nữa chứ , giải bài gì mà toàn  this is .",negative,lecturer
+"giảng viên nhiệt tinh , tận tâm .",positive,lecturer
+giảng viên cần tập trung đi sâu vào kiến thức ngữ pháp và nhiều bài tập hơn .,negative,lecturer
+"cô rất vui vẻ , nhiệt huyết .",positive,lecturer
+"cô wzjwz306 cực kỳ nhiệt tình , luôn biết cách tạo cơ hội cho sinh viên , khuyến khích cự chủ động và sáng tạo trên lớp , thẳng thắng phê bình dù là cả lớp một cách hết sức xây dựng và thức tỉnh .",positive,other
+mỗi người giảng viên đều có một phương pháp dạy khác nhau và trình bày bài tập cũng khác nhau .,neutral,lecturer
+"đề thi nằm ngoài mục tiêu giảng dạy quá nhiều , đề trắc nghiệm khách quan mà cho tới 5 đáp án là không hợp lý .",negative,program
+"thoải mái , lắng nghe ý kiến sinh viên .",positive,lecturer
+"sinh viên được chia nhóm và thực hành trên thiết bị thật 2 buổi , 1 buổi làm quen và một buổi hoàn tất là hơi thiếu .",negative,program
+cô cho nhiều bài tập để rèn luyện .,positive,lecturer
+kiến thức môn học có ích .,positive,program
+"thầy khá nhiệt tình , các nội dung giảng dạy của thầy là những câu chuyện thực tế mà thầy trải qua vì vậy tụi em thích thú hơn .",positive,lecturer
+cần có nhiều tài liệu được cung cấp ngay từ buổi học đầu tiên thuận lợi và tạo điều kiện cho sinh viên tìm hiểu và nghiên cứu .,negative,program
+"thầy wzjwz298 , dạy rất hay và dễ hiểu môn xác suất thống kê , cực kỳ thích cách giảng dạy của thầy , bài tập và slide bài giảng thầy đều gửi đầy đủ giúp sinh viên nắm bắt được bài giảng hiệu quả .",positive,lecturer
+tốt .,positive,other
+"giảng viên tận tình , tâm huyết .",positive,lecturer
+giúp nâng cao kiến thức .,positive,other
+nghỉ học nhưng không thông báo cho sinh viên biết trước .,negative,lecturer
+đảm bảo giờ giấc lên lớp .,positive,lecturer
+giảng viên giảng dạy nhiệt tình và hiệu quả .,positive,lecturer
+"phương pháp giảng của thầy hơi trừu tượng , đề thi có lý thuyết mà thầy quên nhắc .",negative,lecturer
+"sự nhiệt tình của giảng viên , tạo động lực cho sinh viên học tập tốt .",positive,lecturer
+cần có nhiều thời gian hơn nữa để sinh viên có thể tiếp thu và vận dụng vào trong thực tế .,negative,program
+"thầy nhiệt tình , giảng hay .",positive,lecturer
+"chấm điểm rộng rãi , không công bằng .",negative,lecturer
+đôi lúc thầy  chia sẻ  hơi nhiều thời gian và việc học vào chương trình thì bị bớt lại nhưng điều này cũng không mấy ảnh hưởng gì .,neutral,lecturer
+điều em hài lòng nhất đó là thầy rất là vui vẻ khi mà hỏi bài thầy và thầy rất nhiệt tình trong lúc giảng dạy .,positive,lecturer
+nhiều trang thiết bị thực hành trong phòng thực hành điện tử cơ bản đa số hư hỏng nhiều cần phải thay mới .,negative,facility
+môn game là môn khó mà lượng thời gian thực hành quá ít .,negative,program
+"slide bài giảng đầy đủ rõ ràng , giáo viên đúng giờ , tạo nhiều điều kiện cho sinh viên .",positive,lecturer
+thầy rất nghiêm khắc .,negative,lecturer
+cần chú ý khắc phục .,negative,other
+"vui vẻ , tận tình giải đáp thắc mắc .",positive,lecturer
+"giảng viên giảng dạy quá áp lực , gây áp lực về điểm số cho sinh viên .",negative,lecturer
+"thiết bị thực hành không đáp ứng yêu cầu môn học , như router , switch .",negative,facility
+"thầy giảng hay , dễ hiểu , bài tập cho về nhà vừa sức với em .",positive,lecturer
+nên có tiết thực hành hỗ trợ phần đồ án .,negative,program
+"giảng viên giảng dạy nhiệt tình , tận tâm , dễ hiểu .",positive,lecturer
+nói chuyện điện thoại nhiều hơn giảng dạy .,negative,lecturer
+giảng viên rất hòa đồng với học sinh .,positive,lecturer
+khi dùng micro em nghe được hai giọng của thầy và của loa rất đau đầu .,negative,facility
+điều này như lướt qua đầu tụi em và nó chả để lại ấn tượng gì nên trong bài thi giữa kỳ đa số là sai phần bài tập .,negative,other
+còn nghỉ .,negative,lecturer
+"quản lý lớp tốt , truyền đạt hay .",positive,lecturer
+"gần gũi , phương pháp dạy phù hợp .",positive,lecturer
+"trong quá trình giải bài tập , giảng viên đưa ra nhiều nhận xét khác nhau , mỗi buổi lại giải một cách khác nhau khiến sinh khiên không xác định được cách làm , hoang mang .",negative,lecturer
+giao viên dạy rất nhiệt tình .,positive,lecturer
+"có bài thì một tuần deadline , có bài thì cả tháng mới deadline , có tuần thì deadline ba bài cùng lúc .",negative,program
+"cô wzjwz82 dạy rất khó hiểu , nhiều bạn trong lớp không nắm được .",negative,lecturer
+"hy vọng cô thay đổi cấu trúc đề thi thực hành , thực ra khó thì không khó lắm , nhưng đánh máy không kịp .",negative,lecturer
+"thầy tận tâm , nhiệt tình , giảng bài trên lớp kỹ .",positive,lecturer
+giảng viên luôn nhiệt tình với sinh viên trong quá trình giảng dạy .,positive,lecturer
+"cô dạy vui vẻ , thân thiện với sinh viên .",positive,lecturer
+môn học giúp hiểu rõ về từng ngành .,positive,program
+"nhiệt huyết , vui tính .",positive,lecturer
+nên thường xuyên điểm danh hơn .,negative,lecturer
+cần phòng thực hành môn học .,negative,facility
+đây là một giảng viên có số lượng fan đông nhất trường .,positive,lecturer
+"thầy dạy và hướng dẫn sinh viên làm đồ án rất tốt và rất nhiệt tình , luôn giải đáp các câu hỏi của sinh viên rất nhanh .",positive,lecturer
+nên mất tiết khá nhiều .,negative,program
+"sự nhiệt tình tận tâm , nếu có thể tăng tiết cho môn học này thì rất tốt ạ !",positive,lecturer
+cô chấm bài tập còn khắt khe .,negative,lecturer
+cô nên sử dụng micro .,negative,lecturer
+chỗ thực hành rất nắng và nóng và dụng cụ thực hành rất có hạn .,negative,facility
+chưa có diễn đàn trên courses .,negative,program
+giải bài tập nhiều hơn .,negative,lecturer
+nên nhanh chóng đưa thiết bị thật vào thực hành .,negative,facility
+"có nhiều trò chơi mới lạ , vui tươi .",positive,program
+mở rộng hệ thống bài giảng .,neutral,program
+đề thi ra không hợp lý .,negative,lecturer
+"nội dung thi , kiểm tra quá rộng .",negative,program
+"thân thiện , tận tình hướng dẫn .",positive,lecturer
+"cô rất nhiệt tình , dạy kỹ .",positive,lecturer
+giảng viên nên hướng dẫn sinh viên sử dụng myelt trong việc tự học ở nhà .,negative,lecturer
+"cô giảng hay , truyền đạt được kiến thức đầy đủ .",positive,lecturer
+luôn vui vẻ và rất nghiêm túc trong chuyện giảng dạy .,positive,lecturer
+"do năm nay chường trình av nâng lên một bậc , nên cũng giống như em vừa học xong av1 , lại nhảy lên thẳng av3 của năm ngoái .",negative,lecturer
+trong một khoảng thời gian ngắn không thể vừa tìm hiểu vừa làm được .,neutral,program
+"cách dạy thầy rất tốt , nâng cao khả năng , kiến thức của sinh viên .",positive,lecturer
+tài liệu .,neutral,program
+đưa ra nhiều ví dụ cụ thể minh họa cho bài giảng giúp cho sinh viên phân biệt rõ các khái niệm và nắm bắt bài học .,positive,lecturer
+"thầy dạy hay , thầy có kiến thức sâu rộng nhưng lại không lên lớp đủ giờ học , thường xuyên nghỉ học không được báo trước làm sinh viên rất hoang mang , thiếu kiến thức .",negative,lecturer
+giọng rõ dễ nghe .,positive,lecturer
+"đúng giờ , dễ hiểu .",positive,lecturer
+em chưa bao giờ gặp giáo viên như vậy trong suốt 3 năm năm đại học .,neutral,lecturer
+thiếu kinh nghiệm .,negative,lecturer
+giảng viên khá tích cực trong việc trao đổi các vấn đề về đồ án với sinh viên .,positive,lecturer
+thời gian làm bài tập còn hơi dài .,negative,program
+"giảng viên rất tâm huyết , nhiệt tình .",positive,lecturer
+"lý thuyết quá nhiều , không nhiệt tình với sinh viên .",negative,lecturer
+hướng dẫn giải bài tập rất hay và chi tiết .,positive,lecturer
+thầy giảng bài dễ hiểu và tận tâm .,positive,lecturer
+"thưa , thầy luôn nhiệt tâm và rất gần gũi với sinh viên .",positive,lecturer
+"cô dạy rất nhiệt tình , hiểu tâm lý sinh viên , rất vui tính .",positive,lecturer
+"môn học khá nặng và có nhiều phần rất khó hiểu , thời gian phân bố các chương cần có sự thay đổi cho phù hợp , một số phần khá khó nhưng chỉ học trong vòng vài tiết làm sinh viên rất khó hiểu .",negative,program
+"học lý thuyết khác hẳn với thực hành , học nhiều buổi thực hành nhưng thầy chỉ cho 2 bài thực hành về sân bóng mà đa số sinh viên không hiểu đề .",negative,program
+phương pháp dạy dễ hiểu .,positive,lecturer
+chất lượng đào tạo quá tốt .,positive,program
+"em có ý kiến là thầy nên ra thêm nhiều bài tập , chia sẻ thêm nhiều tài liệu hơn .",negative,lecturer
+thầy giảng bài rất nhiệt tình và đầy đủ kiến thức của môn học .,positive,lecturer
+"giảng viên đảm bảo đủ các buổi học , nhưng rất thường xuyên đến lớp trễ .",negative,lecturer
+giọng thầy hơi nhỏ và đều đều làm sinh viên buồn ngủ .,negative,lecturer
+"giảng viên dạy nhiệt tình , dễ hiểu , kỹ càng , chu đáo .",positive,lecturer
+thầy vui vẻ tận tâm .,positive,lecturer
+"thầy dạy chi tiết , dễ hiểu bài , luôn đi vào các phần trọng tâm của bài .",positive,lecturer
+"hiện nay theo em nhận thấy , trong khi lúc học thì sinh viên chỉ được học về doubledot kỹ năng ghi chép , kỹ tổ chức cuộc họp .",neutral,other
+"giảng dạy hay , dễ hiểu .",positive,lecturer
+thầy truyền đạt nhiều kiến thức hay .,positive,lecturer
+"điểm thực hành nên chia ra nhiều mục doubledot chuyên cần , bài tập , kiểm tra , kiểm tra cuối kỳ .",negative,program
+"giảng viên nhiệt tình , đưa ra nhiều bài tập .",positive,lecturer
+"thầy dạy rất hay , rất dễ hiểu .",positive,lecturer
+cô dạy có tâm nhất luôn colonlove .,positive,lecturer
+"cô vui tính , hướng dẫn rất tận tình .",positive,lecturer
+"khả năng truyền đạt tốt , tận tâm , chu đáo .",positive,lecturer
+"mong cô thay đổi một chút về phương pháp như sau , có lẽ sẽ giúp sinh viên tiếp cận dễ dàng với bài học hơn .",negative,lecturer
+nên cho làm bài tập trên lớp sau mỗi chương .,negative,lecturer
+cô dạy hay nhiệt tình nhất trong những giáo viên anh văn em đã học !,positive,lecturer
+đi dạy luôn trễ từ 10 - 20 phút .,negative,lecturer
+hoạt động giảng dạy logic và dễ hiểu không có gì để ý kiến .,positive,lecturer
+"thầy nhiệt tình , chỉ dạy dễ hiểu .",positive,lecturer
+buồn ngủ .,negative,other
+"thầy dạy hay , tận tình .",positive,lecturer
+thầy đẹp trai nhưng trông có pha chút nữ tính .,negative,lecturer
+"giáo viên chưa được tận tâm cho lắm , nhiều buổi thực hành giáo viên chỉ đến đưa thiết bị rồi đi họp .",negative,lecturer
+cách dạy của cô rất thoải mái không gò bó sinh viên .,positive,lecturer
+"tận tình , truyền đạt dễ hiểu .",positive,lecturer
+có nhiều trò chơi nhỏ .,positive,other
+"trong giờ học thì không tập trung vào các nội dung chính của bài mà hỏi sinh viên những câu không liên quan , liên quan về vấn đề riêng tư , và em không thấy được sự áp dụng vô bài học .",negative,lecturer
+"phòng học còn rất là bụi , phấn viết bảng thì thiếu trầm trọng , khăn lau bảng thì rách tả tơi .",negative,facility
+nếu nghỉ học thì mong thầy báo sớm cho tụi em và mong thầy giải hoặc hướng tụi em cách làm một bài tập cũ hoặc mới một cách cụ thể hơn .,negative,lecturer
+cho nhiều bài tập về nhà để luyện các kỹ năng nghe và đọc .,positive,lecturer
+slide môn học có đôi chỗ bị sai .,negative,program
+"phòng học được sắp xếp gần nơi thi công wzjwz125 ồn ào , không học được .",negative,facility
+"giảng viên hòa đồng , nhiệt huyết , tận tâm .",positive,lecturer
+chất lượng giảng dạy .,neutral,other
+"nếu được thì mong nhà trường hoặc giảng viên giới thiệu rõ hơn về môn học , tầm ảnh hưởng tiên quyết của nó đối với các môn học chuyên ngành về sau .",negative,program
+do bản thân .,neutral,other
+"giảng viên hơi gầy , cần bồi bổ thể chất colonsmile .",negative,lecturer
+"giáo viên vui tính , nhiệt huyết .",positive,lecturer
+"kiến thức sát với thực tế , được cập nhật .",positive,program
+"thầy rất vui và dạy rất nhiệt tình , kiến thức rất rộng .",positive,lecturer
+thiết bị còn quá cũ kỹ .,negative,facility
+"cô đọc slides nhanh quá , ít giảng cụ thể và nêu ví dụ lên bảng .",negative,lecturer
+"nhiệt tình , vui vẻ , tận tâm .",positive,lecturer
+thầy dạy rất có tâm và giúp chúng em hiểu rất sâu .,positive,lecturer
+giáo viên giảng dạy hay .,positive,lecturer
+môn học rất khó hiểu .,neutral,program
+giáo viên giảng khó hiểu .,negative,lecturer
+giảng dạy vui vẻ nhiệt tình gần gũi với sinh viên .,positive,lecturer
+một số máy còn không được cài đặt phần mềm thực hành .,negative,facility
+thầy cực kỳ nhiệt tình !,positive,lecturer
+bài tập mang tính ứng dụng thực tế .,positive,program
+đây là góp ý nhỏ của em để cô đỡ mệt thêm thôi ạ !,neutral,lecturer
+"còn ít tạo cơ hội cho sinh viên rèn luyện các kỹ năng quan trọng như nghe , nói nhiều .",negative,lecturer
+có hài lòng .,neutral,lecturer
+thời gian quá ngắn .,negative,other
+thầy nhiệt tình giảng dạy dù có lúc không ai thèm nghe thầy nói .,positive,lecturer
+thầy chỉ đến hỗ trợ khi sinh viên cần giúp .,negative,lecturer
+thực hành .,neutral,program
+thầy liên hệ thực tiễn rất tốt .,positive,lecturer
+có .,neutral,lecturer
+môn mạng máy tính nên tăng cường thêm thời gian thực hành thay vì dạy nội dung môn học dạy quá nhiều lý thuyết dẫn đến gây khó hiểu cho sinh viên .,negative,program
+"thầy hướng dẫn tận tâm , nhiệt tình !",positive,lecturer
+"khả năng truyền đạt tốt , thân thiện với sinh viên .",positive,lecturer
+nên sắp xếp lịch thực hành phù hợp với tiến độ giảng dạy lý thuyết .,negative,program
+mong khoa đổi giảng viên cho môn này vào năm học sau .,negative,lecturer
+"thầy rất nhiệt tình giảng dạy , cho dù ít sinh viên .",positive,lecturer
+trang thiết bị nên được trang bị thường xuyên .,negative,facility
+thầy lên lớp rất đúng giờ .,positive,lecturer
+thường xuyên đi trễ và áp đặt sinh viên .,negative,lecturer
+khó gần .,negative,lecturer
+để thay đổi không khí và vừa nghỉ giải lao .,positive,other
+cuối buổi học thầy chia sẻ kinh nghiệm để tụi em có thể học tốt hơn .,positive,program
+"nhiệt tình với sinh viên , luôn đáp ứng và trả lời câu hỏi khi sinh viên thắc mắc .",positive,lecturer
+"thầy chơi đểu em nhé , gọi em 2 lần làm em 1 con dấu nợ đấy !",negative,lecturer
+sinh viên có nhiều môn học nên khó mà chỉ đầu tư quá nhiều cho một môn .,negative,program
+đa số các kiến thức của môn sinh viên phải tự học hoặc học hỏi lẫn nhau mà không có hướng dẫn .,negative,program
+"chương trình quá nặng , quá nhiều yêu cầu dễ bị quá tải .",negative,other
+nên biên soạn tài liệu tiếng việt đi kèm .,negative,program
+yêu cầu môn học thì mập mờ và thiếu thực tế .,negative,program
+thầy dạy đủ buổi .,neutral,lecturer
+"thầy dạy nhiệt tình , có sự tương tác giữa người dạy và học trong suốt quá trình học tập .",positive,lecturer
+"thầy tâm lý , vui tính .",positive,lecturer
+"các mục được đánh  không ý kiến  có nghĩa là em đồng ý với điều được hỏi , không ý kiến gì .",neutral,other
+phòng quá nóng và chói làm máy chiếu bị mờ .,negative,facility
+sử dụng giờ lên lớp chưa hợp lý .,negative,lecturer
+thầy dạy hay cho nhiều bài tập .,positive,lecturer
+"tận tình , giảng rõ ràng .",positive,lecturer
+thầy rất tích cực trong quá trình giảng dạy .,positive,lecturer
+khó tiếp cận nội dung vì slide toàn tiếng anh .,negative,program
+thầy vui tính nhiệt tình .,positive,lecturer
+chưa giảng chi tiết những bài tập sinh viên không làm được .,negative,lecturer
+"giảng viên nhiệt tình , giảng dễ hiểu .",positive,lecturer
+"nội dung thực hành còn sơ sài , giảng viên chưa hướng dẫn , thông báo trước hay giảng giải về nội dung thực hành .",negative,lecturer
+"thầy rất thương sinh viên , sẵn sàng nói lại kiến thức lý thuyết khi sinh viên chưa hiểu .",positive,lecturer
+"nhiệt tình , truyền đạt tốt , hiệu quả .",positive,lecturer
+"có thể ta sẽ tìm thấy được một phương pháp lập trình cho bài toán đó tối ưu hơn , hay hơn .",positive,program
+em rất thích cách dạy này !,positive,lecturer
+"phòng lab kém , buổi đầu tiên không cài visual , buổi thứ 2 cũng không cài , buổi thứ 3 cũng vậy sinh viên không đi thực hành !",negative,facility
+rất dễ hiểu .,positive,lecturer
+"thầy dạy có tâm , nhiệt tình , chấm điểm công bằng .",positive,lecturer
+"thầy dạy thêm nhiều kiến thức hay , chia sẻ cho lớp nhiều kinh nghiệm đã từng học và đi làm của thầy , em thấy rất hứng thú .",positive,lecturer
+"không gian học thoải mái , giảng viên tận tâm , không tạo nhiều áp lực cho sinh viên .",positive,lecturer
+cần nhắc nhở giáo viên này và khiển trách nhiều .,negative,lecturer
+"giảng viên nhiệt tình , giảng dạy rõ ràng .",positive,lecturer
+"giáo viên dạy dễ hiểu , thực hành tốt , kích thích tư duy sinh viên .",positive,lecturer
+"giảng viên dạy quá nhanh , ít sửa bài tập .",negative,lecturer
+chấm bài tập hoặc đồ án hơi gắt .,negative,lecturer
+"cách dạy thuyết phục sinh viên , phù hợp với sinh viên .",positive,lecturer
+"quy định rõ sinh viên phải học và làm gì ngay từ đầu học kỳ , tránh đầu học kỳ yêu cầu một kiểu , giữa kỳ lại đổi làm sinh viên khó theo kịp yêu cầu môn học .",negative,lecturer
+thầy có phong cách giảng bài gần gũi với sinh viên .,positive,lecturer
+giảng viên cho quá nhiều bài tập .,negative,lecturer
+"dạy nhanh , giải bài tập nhanh , làm em không theo kịp .",negative,lecturer
+giáo viên nhiệt huyết .,positive,lecturer
+"nhiệt tình , tận tâm , vui tính .",positive,lecturer
+"cần đưa ra các ứng dụng thực tiễn của môn học , giúp cho sinh viên có thể định hình được họ có thể làm được những gì khi kết thúc môn học , đồng thời có thể áp dụng kiến thức môn học để đáp ứng yêu cầu của thị trường lao động .",negative,program
+phòng học quá bé và thời lượng học quá ít .,negative,facility
+"giảng viên dễ thương , truyền đạt kiến thức tốt , dễ hiểu .",positive,lecturer
+cô chấm kỹ quá .,negative,lecturer
+dạy quá số giờ quy định .,negative,lecturer
+cô dạy rất tận tâm và dễ hiểu .,positive,lecturer
+chưa tận tụy .,negative,lecturer
+thu hút em học .,positive,other
+"nên cho nhiều ví dụ và bài tập về nhà , cung cấp tài liệu thêm cho các sinh viên muốn tìm hiểu thêm .",negative,program
+thời gian trên lớp không hiệu quả .,positive,program
+"giáo viên không có khả năng đứng lớp , bài giảng dở tệ .",negative,lecturer
+nên có nhiều buổi kiểm tra trên lớp .,negative,program
+nên giảm số sinh viên trong 1 lớp .,negative,program
+thầy luôn tích cực trả lời thắc mắc của sinh viên trên moodle .,positive,lecturer
+thầy có định hướng dạy rất tốt về công nghệ hiện tại .,positive,lecturer
+giáo viên nói hơi nhỏ .,negative,lecturer
+thầy cần sửa nhiều bài tập hơn nữa .,negative,lecturer
+thực hành không cần phải lên phòng máy nhiều .,negative,program
+mong thầy yêu thương tất cả học trò của mình !,negative,lecturer
+"nhiệt tình , luôn quan tâm các sinh viên trong mỗi buổi dạy .",positive,lecturer
+"truyền đạt kiến thức còn quá lan man , thiếu ví dụ về hệ thống thực tế bên ngoài , truyền cảm hứng chưa tốt , chưa tạo được niềm vui cho sinh viên đến lớp .",negative,lecturer
+"giảng dạy tận tình , không khí học tập thoải mái , vui vẻ .",positive,lecturer
+"thầy chỉ đọc trên slide , ít có giảng nội dung ngoài .",positive,lecturer
+nên có nhiều bài tập vận dụng thực tế vào thực hành .,negative,program
+sau đó mở vào giờ khuya lúc sinh viên đi ngủ .,negative,lecturer
+bài tập chất lượng .,positive,program
+"tuy có một số phần khó nhưng thầy giảng và làm ví dụ rất dễ hiểu , có một tiết thầy giảng bằng tiếng anh rất hay .",positive,lecturer
+"bài giảng được cung cấp đầy đủ , hữu ích .",positive,program
+"trẻ , có nhiều cái mới , hay .",positive,lecturer
+mong cô tiếp tục dạy như vậy nữa .,positive,lecturer
+giảng viên nên cho bài tập thường xuyên tuần nào cũng phải trả bài .,negative,lecturer
+cô dạy hay nhiệt tình và dễ hiểu .,positive,lecturer
+"giảng kỹ , giảng nhiều phần nâng cao .",positive,lecturer
+giảng viên hướng dẫn sinh động .,positive,lecturer
+nên để ngày học thực hành chung ngày với lý thuyết .,negative,program
+thầy rất nhiệt tình và tận tâm với sinh viên !,positive,lecturer
+thời khóa biểu thực hành cần sắp xếp hợp lý so với giờ học lý thuyết .,negative,program
+cô dạy rất nhiệt tình và quan tâm đến sinh viên .,positive,lecturer
+giảng viên giảng tận tình .,positive,lecturer
+giáo viên không đến lớp bữa nào nên em không biết nhận xét .,neutral,lecturer
+vô cùng tuyệt vời .,positive,other
+"thầy dạy hơi nhanh , một vài chỗ lướt hơi nhanh .",negative,lecturer
+thầy dạy nhiệt tình dễ hiểu .,positive,lecturer
+giáo viên tận tình mặc dù nhiều sinh viên còn lơ là .,positive,lecturer
+môn học khá nhẹ nhàng cho sinh viên .,positive,program
+máy tính trong phòng thực hành không được tốt cho lắm .,negative,facility
+"phòng máy nên đầu tư đồng bộ một chút , tránh hiện tượng các máy là khác nhau .",negative,facility
+thầy dạy đủ để thi .,neutral,lecturer
+mong phòng đào tạo xem xét để khóa sau học được chất lượng ạ .,negative,program
+lớp trưởng trách nhiệm kém .,negative,other
+"cô dạy rất hay , vui tính và dễ hiểu .",positive,lecturer
+em rất hài lòng về cách dạy của thầy trong môi trường đại học .,positive,lecturer
+"thầy tận tâm , nhiệt tình với học sinh .",positive,lecturer
+thầy hướng dẫn thực hành rất không tốt .,negative,lecturer
+"phương pháp giảng dạy phù hợp , giải quyết thắc mắc nhanh chóng .",positive,lecturer
+cần cải thiện tốc độ mạng .,negative,facility
+thầy hơi khó chịu .,negative,lecturer
+chưa tổng quát .,negative,lecturer
+"chỉ được thực hành hai buổi thi vì vậy không vận dụng tốt kiến thức đã học , không đảm bảo số buổi như lúc bắt đầu đã thỏa thuận .",negative,program
+khuôn khổ bài học chưa truyền được cảm hứng cho sinh viên .,negative,lecturer
+đề nghị giảng viên chuẩn bị tốt bài giảng .,negative,lecturer
+cô rất nhiệt tình và tận tâm với sinh viên !,positive,lecturer
+"giáo viên nhiệt tình , có trách nhiệm , truyền đạt dễ giểu .",positive,lecturer
+được tiếp xúc môi trường thực tế ở các công ty .,positive,other
+thầy rất vui tính và dễ gần .,positive,lecturer
+giảng kỹ và chi tiết .,positive,lecturer
+giáo viên hướng dẫn tận tâm .,positive,lecturer
+"em thấy giáo viên dạy dễ hiểu , tận tình .",positive,other
+giọng nói dễ nghe .,positive,lecturer
+một số vấn đề còn khó hiểu .,negative,program
+giảng viên vui tính nhiệt tình .,positive,lecturer
+"thầy giảng hơi khó hiểu , giọng đều đều buồn ngủ .",negative,lecturer
+cần định hướng tạo điều kiện cho sinh viên giao lưu các doanh nghiệp để biết được yêu cầu của họ về một người kỹ sư .,negative,program
+"giàu kinh nghiệm , dễ hiểu , dẫn chứng cụ thể .",positive,lecturer
+em nhớ nhất câu phải có sự đấu tranh mới phát triển .,positive,other
+"không kiểm soát được lớp , không tận tâm chuẩn bị trước khi lên lớp .",negative,lecturer
+giáo viên đúng giờ .,positive,lecturer
+cô dạy nhiệt tình nhưng hơi nhanh .,negative,lecturer
+em nghĩ thầy nên cho nhiều bài tập về nhà hơn .,negative,lecturer
+"bám không sát đề thi , lan man .",positive,program
+không có đề cương trên khoá học .,negative,other
+giảng viên nên thông báo hình thức ra đề đề mở hay đề đóng để sinh viên biết và chuẩn bị tài liệu để bài kiểm tra có kết quả tốt hơn .,negative,lecturer
+đặc biệt là tránh để thời gian chết .,negative,other
+giảng viên hơi khó tính .,negative,lecturer
+"thầy dạy tận tâm , nhiệt tình , truyển đạt dễ hiểu .",positive,lecturer
+"thầy dạy rất kỹ và chi tiết , rất quan tâm đến học sinh .",positive,lecturer
+ít cho học sinh luyện kỹ năng nghe nói .,negative,program
+giảng viên nên giảng chậm lại và phân tích trọng tâm từng đề mục của bài học .,negative,lecturer
+funny .,positive,other
+quá nhiều lý thuyết khiến sinh viên không tiếp thu kịp vào không biết cách vận dụng .,negative,program
+mong thầy đổi phương pháp dạy và cách phản biện với sinh viên .,negative,lecturer
+em nghĩ là nhà trường không nên tổ chức học thực hành .,negative,program
+sự cố này kéo dài hơn một tháng mới chấm dứt .,negative,other
+"cô giáo rất tích cực trong giảng dạy , truyền đạt kiến thức tới sinh viên rất hay .",positive,lecturer
+cần thực hành thêm nhiều bài tập .,negative,program
+giúp cho sinh viên tập trung vào thiết kế mạng phù hợp với mục đích môn học .,positive,lecturer
+giảng viên giải đáp các thắc mắc tại lớp tận tình .,positive,lecturer
+thay vì cho làm kiểm tra wecode thì cho làm trên lớp thuận tiện hơn .,negative,program
+"nói to , rõ .",positive,lecturer
+thiếu sự giảng dạy và khả năng truyền đạt không hiệu quả .,negative,lecturer
+"hướng dẫn làm đồ án còn chưa rõ ràng , chưa hướng dẫn cho sinh viên một cách cụ thể về các kỹ năng đứng trước đám đông .",negative,lecturer
+"các bài giảng khó tiếp thu , hiểu được .",negative,program
+thầy dạy vui tính .,positive,lecturer
+thầy dạy được .,positive,lecturer
+nhà trường nên giúp đỡ thầy trong việc giảng dạy vì môn này không đúng chuyên môn của thầy .,negative,program
+cung cấp nhiều kiến thức mở rộng hữu ích .,positive,lecturer
+"giảng viên rất nhiệt tình , tạo mọi điều kiện cho sinh viên hoàn thành tốt môn học .",positive,lecturer
+thầy rất nhiệt tình trong việc giảng dạy và hướng dẫn sinh viên .,positive,lecturer
+cách truyền đạt của cô khá khó hiểu .,negative,lecturer
+"nhiệt tình , giảng dạy chi tiết cụ thể .",positive,lecturer
+"thầy biết sâu rộng và có nhiều chủ đề giảng mang tính thực tiễn , thực tế bên cạnh việc giảng dạy môn giải tích .",positive,lecturer
+"giảng viên không hướng dẫn thực hành , vào phòng thực hành làm các bài lab và nộp , không có sự hướng dẫn , sinh viên nào chưa hiểu giảng viên yêu cầu đến lớp lý thuyết để hỏi vào phòng thực hành , giảng viên ngồi trên máy tính , sinh viên bên dưới làm gì tùy thích , đến hạn nộp lab xem như hoàn thành !",negative,lecturer
+thầy dạy dễ hiểu và dễ tiếp thu .,positive,lecturer
+em mong muốn thầy phân bổ thời gian dạy hợp lý hơn .,negative,lecturer
+nên thu nhỏ lớp học lại .,negative,facility
+thường xuyên cho bài tập về nhà .,positive,lecturer
+"giáo viên nên liên hệ với giáo viên lý thuyết , để có nội dung thực hành sát với nội dung giảng dạy trên lớp .",negative,lecturer
+thầy dạy nhiệt tình bài tập và slide hay .,positive,lecturer
+thực tiễn .,neutral,program
+"thầy giáo nhiệt tình , tận tâm .",positive,lecturer
+mong phòng đào tạo không sắp cho thầy dạy lớp em nữa .,negative,lecturer
+"giảng viên nhiệt tình giảng dạy , giúp đỡ sinh viên rất nhiều .",positive,lecturer
+"tận tâm , kỹ lưỡng .",positive,lecturer
+"lên báo cáo thì  đuổi về  , thái độ với sinh viên quá là tệ .",negative,lecturer
+mong thầy cô xem lại mức độ ra bài tập hoặc đưa ra hướng dẫn cụ thể hơn dành cho sinh viên .,negative,lecturer
+nên điều chỉnh môn này thời gian nhiều hơn .,negative,program
+nội dung dạy không hấp dẫn !,negative,lecturer
+rất hay và quá hay .,positive,other
+thầy nên giảng chậm lại để học sinh dễ hiểu hơn và cho nhiều bài tập để học sinh có thể áp dụng được .,negative,lecturer
+học patin vui .,positive,other
+"cách trình bày , diễn đạt kiến thức chưa được tốt .",negative,lecturer
+cải thiện tốc dộ mạng .,negative,facility
+"giảng viên dạy dễ tiếp thu , nhiệt tình .",positive,lecturer
+"thầy giảng bài rất tận tâm , dễ hiểu , nhưng tiết dạy kéo dài rất ngắn .",negative,lecturer
+"giảng dạy dễ hiểu , cuốn hút sinh viên !",positive,lecturer
+"giảng viên dạy nhiệt tình , chu đáo , tận tâm , tạo mọi điều kiện cho sinh viên phát triển kỹ năng suy luận .",positive,lecturer
+giảng nhanh .,negative,lecturer
+"hiểu được sơ lược về một hệ điều hành , biết được một số thuật toán cần thiết của môn học .",positive,program
+cho làm bài tập nhiều hơn nữa .,negative,lecturer
+cô giáo dạy hay .,positive,lecturer
+cách dạy khoa học .,positive,lecturer
+dạy vui vẻ va nhiệt tình .,positive,lecturer
+"giảng viên nhiệt tình , tận tình giải thích khi sinh viên thắc mắc .",positive,lecturer
+chưa đảm bảo thời gian lên lớp .,negative,lecturer
+cần tài liệu chính thức cho phần lý thuyết hơn nữa .,negative,program
+"cô dạy kiến thức còn sư phạm , khó áp dụng thực tế .",negative,lecturer
+cần trang bị thêm các rèm che cho các phòng học ở dãy nhà c nhằm tránh tình trạng không thấy rõ máy chiếu .,negative,facility
+hỗ trợ nhiều bài tập giúp nâng cao trình độ .,negative,program
+"gần gũi , hoà đồng , vui tính .",positive,lecturer
+đây là môn đầu tiên học thầy và cũng nghe mọi người nói thầy dạy và chấm điểm khó .,negative,lecturer
+dễ tính .,positive,program
+"có một nhóm seminar và mỗi tuần có một nhóm thực hiện thuyết trình , bên cạnh đó khoảng 2 - 3 tuần đầu học kỳ là giáo viên nghỉ dạy , thế nên hầu như là tuần nào cũng có seminar và cách giảng dạy của giảng viên là như trên .",negative,lecturer
+nên tăng cường các kỹ năng nghe và nói cho sinh viên .,negative,program
+"giảng viên tận tâm , nhiệt tình với sinh viên .",positive,lecturer
+"thầy dạy tận tình , khá rõ ràng .",positive,lecturer
+đảm bảo giờ lên lớp .,positive,program
+nhiệt tình tận tâm .,positive,lecturer
+giảng viên dạy được .,neutral,lecturer
+em cảm ơn thầy nhiều ạ .,neutral,lecturer
+giáo viên thân thiện .,positive,lecturer
+môn học nên có thêm phần ví dụ về áp dụng thực tiễn .,negative,program
+"học tập thoải mái , không áp lực .",positive,lecturer
+"nâng cao trang thiết bị phòng học doubledot máy chiếu , quạt , ổ điện .",negative,facility
+"thầy giảng dạy nhiệt tình , hiệu quả .",positive,lecturer
+em xin đóng góp là giáo viên dạy thực hành và giáo viên dạy lý thuyết cần có sự trao đổi với nhau để có sự thống nhất trong nội dung bài học cho sinh viên .,negative,lecturer
+"hay đi trễ , giảng buồn ngủ .",negative,lecturer
+"bài tập thầy cho quá dễ và không có tính bắt buộc nên sinh viên hay  ngó lơ  , lần sau thầy cứ trừ điểm quá trình là mấy bạn tự khắc làm liền à colonbigsmile .",negative,lecturer
+"cách giảng bài khó hiểu , vòng vèo , không theo chủ đề .",negative,lecturer
+phần speaking rất dễ hiểu .,positive,program
+tiếng anh chuẩn .,positive,lecturer
+phương pháp giảng dạy hay .,positive,lecturer
+"tận tình với sinh viên , dạy tốt .",positive,lecturer
+"cô dạy rất nhiệt tình , bài giải đầy đủ !",positive,lecturer
+thầy biết lắng nghe ý kiến từ học sinh .,positive,lecturer
+giảng viên cần có tâm hơn .,negative,lecturer
+truyền đạt khó hiểu .,negative,lecturer
+nhanh .,neutral,other
+thầy dạy thiếu nhiệt tình .,negative,lecturer
+không up tài liệu lên courses .,negative,lecturer
+"thầy nhiệt tình tận tâm , đề cập thực tế và các phương pháp học dễ hiểu .",positive,lecturer
+ví dụ không thực tiễn .,negative,program
+"thầy giảng rất dễ hiểu , hay , có tài liệu rõ ràng , đồng thời có kèm theo bài tập để luyện tập .",positive,lecturer
+cái này là bức xúc với cách xếp lịch học chứ không hề có vấn đề gì với giảng viên .,negative,program
+môn học rất là hữu ích .,positive,program
+tma qua dạy làm cho thầy thiếu thời gian nhưng hầu như thầy dậy rất kỹ .,positive,lecturer
+"giảng dễ hiểu , thu hút , hấp dẫn .",positive,lecturer
+giảng viên giảng nhanh .,negative,lecturer
+nên dùng giáo trình tập trung kỹ năng nghe nói nhiều hơn .,negative,program
+"dạy có tâm huyết với sinh viên , giảng và hướng dẫn làm bài tập tốt .",positive,lecturer
+"thầy tận tâm , vui tính .",positive,lecturer
+thầy cần xem rõ cách dạy trên lớp .,negative,lecturer
+thầy đưa ra những tinh huống thực tế rất hay .,positive,lecturer
+"thiết bị phòng lab cũ , chưa đáp ứng được yêu cầu thực hành .",negative,facility
+"phòng thực hành kém chật lượng , quá nhỏ , nhiều bạn thực hành phải làm bài tập bên ngoài hành lang rồi mới vào trong chấm được .",negative,facility
+"thầy rất vui , cực kỳ nhiệt tình .",positive,lecturer
+thầy thường hay cho nghỉ .,negative,lecturer
+kiến thức môn học nhàm chán .,negative,program
+thầy nghiêm khắc và nhiệt tình .,positive,lecturer
+chữ viết khá nhỏ .,negative,other
+đôi lúc nói nhanh nghe không kịp .,negative,lecturer
+"giảng viên vui tính , có tâm huyết .",positive,lecturer
+điểm danh quá nhiều .,negative,lecturer
+nâng cao thiết bị giảng dạy .,negative,facility
+buổi thực hành giáo viên không đi buổi nào .,negative,lecturer
+nhiều hoạt động giao lưu với học sinh .,positive,lecturer
+giảng viên giảng dạy khá nhanh khiền nhiều sinh viên không theo kịp đặc biệt là phần lý thuyết .,negative,lecturer
+em không học giáo viên này ạ !,neutral,lecturer
+"tóm lại , đồ án cuối kỳ không nên đánh giá phần nội dung vì đề bài đã không thiết thực thì không thể nào bắt sinh viên làm đạt yêu cầu được .",negative,program
+"thời gian thực hành quá ít , phân bổ không phù hợp .",negative,program
+"giáo viên tận tình , giảng bài dễ hiểu dễ tiếp thu .",positive,lecturer
+chỉ dẫn làm bài chưa hiệu quả cho sinh viên .,negative,lecturer
+"thông báo học quá trễ , qua kỳ thi giữa kỳ 2 - 3 tuần mới có thông báo học buổi học thực hành đầu tiên .",negative,program
+"không ý kiến , môn học rất tốt .",positive,program
+đề nghị nhà trường nâng cấp .,negative,other
+hơi đi sâu vấn đề khác ( lạc đề ) .,negative,lecturer
+có các bài tập hay bài kiểm tra đánh giá kiến thức theo từng tuần .,positive,program
+"thầy cho nghỉ thường xuyên , nhưng không báo trên hệ thống của trường mà toàn thông báo trên facebook của thầy .",negative,lecturer
+"phòng học quá nóng , xin nhà trường trang bị thêm quạt cho các phòng học dãy c .",negative,facility
+thầy đến lớp trễ và nghỉ nhưng không báo trước .,negative,lecturer
+sửa và giảng bài khá nhanh .,negative,lecturer
+giáo viên thực hành và lý thuyết nên liên hệ với nhau để hỗ trợ sinh viên tốt hơn trong việc học .,negative,lecturer
+thầy nói tiếng anh sinh viên cũng khó hình dung được câu nói ( phát âm ) .,negative,lecturer
+"giảng quá nhanh và quá phức tạp trong một buổi học , không giải bài tập hoặc ví dụ mẫu bao giờ , nên sinh viên khó lòng làm được các hình thức bài tập mới và khó .",negative,lecturer
+"thầy rất nhiệt tình hay , thầy đưa nhiều ví dụ mẫu cho sinh viên dễ hiểu và luôn có đề mẫu làm thử khi gần thi giữa kỳ và cuối kỳ .",positive,lecturer
+"lôi cuốn , thú vị , biết thêm nhiều kiến thức lạ , có tính áp dụng cao .",positive,lecturer
+đề nghị giảng viên nên sử dụng hệ thống moodle nhiều hơn !,negative,lecturer
+thầy dạy chưa đúng giờ .,negative,lecturer
+nên lắng nghe ý kiến của sinh viên nhiều hơn .,negative,lecturer
+tận tâm và nhiệt huyết .,positive,lecturer
+có chuyên môn cao .,positive,lecturer
+"giảng dạy nhiệt tình , đảm bảo kiến thức chuyên sâu .",positive,lecturer
+"thầy dạy không nhiệt tình , cứ chiếu slide rồi cho sinh viên chép .",negative,lecturer
+cô giảng quá nhanh .,negative,lecturer
+sự nhiệt tình của giáo viên .,positive,lecturer
+thầy hiểu học sinh cần đạt được kiến thức gì trong học kỳ đầu và tạo điều kiện để học sinh học tập .,positive,lecturer
+"nhiệt tình , vui tính !",positive,lecturer
+giáo viên giúp đỡ học sinh rất nhiều .,positive,lecturer
+"nhiệt tình , tâm huyết với học sinh .",positive,lecturer
+lịch học phân trùng thời gian sinh viên không thể tham gia học thực hành .,negative,program
+đó là hệ thống máy thực hành còn kém .,negative,facility
+giáo trình tiếng anh .,negative,lecturer
+"thầy dạy rất hay , nhiệt tình , dễ hiểu .",positive,lecturer
+"thầy rất tận tình , cho bài tập rất nhiều , mở rộng nhiều kiến thức cho sinh viên .",positive,lecturer
+thầy có liên hệ với thực tế khiến bài học dễ tiếp thu hơn .,positive,lecturer
+"chương trình dạy hơi khó hiểu , khó tiếp thu và hơi ít bài tập để ôn luyện cho học sinh .",negative,lecturer
+em cảm thấy hứng thú trong tiết học của thầy .,positive,lecturer
+"không khí thoải mái , không bị gò bó về vấn đề bài tập , không bị áp lực .",positive,program
+đôi khi dạy hơi nhanh khiến học sinh hơi hoang mang .,negative,other
+"hơi lan man , không đi vào trọng tâm .",negative,lecturer
+cần có biện pháp để có thể đánh giá phù hợp với thực lực của sinh viên hơn .,negative,other
+"giảng viên truyền đạt tốt , liên hệ nhiều kiến thức bên ngoài .",positive,lecturer
+"cô rất nhiệt tình , vui tính .",positive,lecturer
+"thầy giảng dạy nhiệt tình , và dễ hiểu .",positive,lecturer
+lượng kiến thức cho phần kiểm tra đánh giá kết quả học tập tràn lan .,negative,program
+giảng viên phân tích rõ một vài vấn đề giúp hiểu rõ hơn về các ngành fraction khoa .,positive,lecturer
+"giảng viên dạy đầy đủ , đúng giờ .",positive,lecturer
+giảng viên luyện nói rất hiệu quả .,positive,lecturer
+cần chuẩn bị thêm trang thiết bị để hỗ trợ kịp thời trong học tập và thực hành .,negative,facility
+bài tập hay và cụ thể .,positive,program
+"môn tốt nghiệp mà thấy chỉ cho các nhóm thuyết trình xong điểm danh , thầy còn không ý kiến về cả bài thuyết trình .",negative,program
+"cô dạy rất nhiệt tình , tận tâm và chu đáo .",negative,lecturer
+"mơ hồ , không chi tiết .",negative,lecturer
+nói chung again 10 fraction 10 .,positive,other
+thời gian .,neutral,other
+thầy dạy chưa đúng với thời gian biểu .,negative,lecturer
+"cần có giáo trình với nhiều ví dụ rõ ràng hơn , hiện tại quá ít ví dụ để sinh viên tự học theo .",negative,program
+"slide bài giảng , bài tập đầy đủ .",positive,program
+nhưng lại ra đề rất khó .,negative,program
+thầy hơi nóng tính .,negative,lecturer
+phương pháp giảng dạy gây nhàm chán .,negative,lecturer
+"giảng viên lên lớp đúng giờ , chấm điểm công bằng , có những hình thức để khuyến khích sinh viên đến lớp .",positive,lecturer
+"giảng viên nhiệt tình , tận tâm với công việc , slide dễ hiểu .",positive,lecturer
+ít bài tập ôn tập .,negative,program
+ít trao đổi với lớp .,negative,lecturer
+hoạt động seminar chưa tốt .,negative,lecturer
+không có tài liệu cụ thể .,negative,lecturer
+thầy dễ thương !,positive,lecturer
+quá trình giảng dạy rất dễ hiểu .,positive,lecturer
+dạy nghiêm túc .,positive,lecturer
+cô giảng dễ hiểu .,positive,lecturer
+tổng quan môn học này không đúc kết được gì nhiều dù cho giảng viên có kiến thức tốt .,negative,program
+giảng viên không đảm bảo giờ lên lớp .,negative,lecturer
+"thầy giảng rất hay , rất tận tâm , luôn dạy quá tiết , luôn trả lời thắc mắc của sinh viên .",positive,lecturer
+chú trọng giao tiếp .,neutral,program
+giảng viên giảng dạy tận tâm nhiệt tình và chu đáo .,positive,lecturer
+thầy nên cho làm nhiều bài tập hơn .,negative,lecturer
+giang viên quá cứng nhắc .,negative,lecturer
+trong khi đề thi lại có 50% bài tập .,neutral,program
+thầy cung cấp đủ các tài liệu giảng dạy .,positive,lecturer
+"mọi thứ đều tốt , mong thầy chia sẻ thật nhiều kinh nghiệm hơn nữa cho tụi em .",positive,lecturer
+"học tập bằng việc ghi trên bảng , khá thú vị .",positive,lecturer
+đảm báo giờ lên lớp và kiến thức .,positive,lecturer
+thầy giảng dạy hay và dễ hiểu .,positive,lecturer
+thêm các ví dụ minh họa để sinh viên dễ hiểu hơn về môn học .,negative,program
+"phòng học quá gần khu thi công , ồn ào , mất tập trung .",negative,facility
+tận tình giúp đỡ các bạn sinh viên .,positive,lecturer
+"thầy dạy rất tận tình , dễ hiểu .",positive,lecturer
+"cô vui tính , dạy nhiệt tình .",positive,lecturer
+ví dụ trường hợp có hai lớp thực hành cách nhau một tuần nhưng lại cho ra một deadline bài tập cùng một thời điểm .,negative,program
+nên dạy lý thuyết trước rồi thực hành sau .,negative,program
+thấy dạy rất hay nhiệt tình .,positive,lecturer
+bài tập .,neutral,program
+cô nhiệt tình giải bài tập để sinh viên hiểu lý thuyết kỹ hơn .,positive,lecturer
+sĩ số sinh viên trong lớp quá đông với lại nhiều sinh viên nhiều ngành khác nhau học nên chất lượng buổi học không tốt .,negative,program
+dạy cách học hiểu vấn đề chứ không học vẹt .,negative,lecturer
+thầy dạy hay và tốt với em .,positive,lecturer
+sự nhiệt tình của cô .,neutral,lecturer
+giảng dạy vui vẻ .,positive,lecturer
+rất tận tâm .,positive,lecturer
+"nhìn cô dễ thương , giọng cô nghe rất ngọt .",positive,lecturer
+"cô vui , nhiệt tình , hướng dẫn tận tâm , thân thiện .",positive,lecturer
+bài tập cực kỳ khó .,negative,program
+"vui tính , dạy dễ hiểu , đảm bảo tiết học lý thuyết và làm bài tập trên lớp .",positive,lecturer
+"các bài giảng của giáo viên dễ hiểu và dễ tiếp thu , phương pháp dạy vui vẻ và nhiệt tình .",positive,program
+"tổng hợp ôn tập tốt , cô giáo nhiệt tinh .",positive,lecturer
+"thầy dạy rất tốt , đầy đủ về nội dung .",positive,lecturer
+rất hài lòng về tất cả hoạt động giảng dạy .,positive,lecturer
+thầy dạy rất tận tâm và thương sinh viên .,positive,lecturer
+"giờ giấc giảng dạy không đảm bảo , giảng viên hay vắng mặt không báo trước , không up tài liệu giảng dạy lên moodle .",negative,lecturer
+"dạy dễ hiểu , dễ gần .",positive,lecturer
+ngoài ra còn nói về một số kiến thức thực tế liên quan đến môn học .,positive,program
+"thầy giảng bài rất dễ hiểu , bên cạnh đó còn có các câu chuyện của cuộc sống rất ý nghĩa , mong được học nhiều môn thầy dạy !",positive,lecturer
+khó tiếp thu .,negative,other
+"giảng viên dạy tương đối dễ hiểu , có nhiều ví dụ minh họa cụ thể .",positive,lecturer
+"bài giảng của cô khá trừu tượng , nếu cô có thêm vài ví dụ rõ ràng hơn , thì chúng em sẽ hiểu bài hơn .",negative,program
+"thầy dạy khá sát thực tiễn , bài tập nhiều , hay .",positive,lecturer
+"phương pháp giảng dạy hiệu quả , giúp cho sinh viên hiểu rõ được vấn đề .",positive,lecturer
+em nghĩ môn học không cần thiết ạ !,negative,program
+cần có thêm nhiều tiết bài tập .,negative,program
+bài tập thực hành khá nặng so với lý thuyết tại cùng một thời điểm .,negative,program
+"không nên chia giờ học kiểu 2 tiết 1 buổi , như vậy thời lượng học mỗi buổi quá ít , gây gián đoạn cho việc giảng dạy .",negative,program
+"giảng bài dễ hiểu , dễ tiếp thu .",positive,lecturer
+không có gì để không hài lòng .,neutral,other
+chương trình nên cập nhật thường xuyên để phù hợp hơn với thực tế .,negative,program
+"giáo viên vui vẻ , thân thiện .",positive,lecturer
+"tận tâm , nhiệt tình và hay liên hệ thực tiễn .",positive,lecturer
+"cô dạy rất dễ hiểu , tận tình hướng dẫn học sinh .",positive,lecturer
+lớp em học thì máy hay có sự cố .,negative,facility
+"cô vui vẻ , nhiệt tình , hòa đồng .",positive,lecturer
+thầy cần có nhiều phương pháp giảng dạy hay hơn !,negative,lecturer
+"cô dạy tốt tận tình , tài liệu đầy đủ .",positive,lecturer
+"thầy vui tính , nhiệt tình với sinh viên .",positive,lecturer
+giảng viên cần nói nhiều hơn khi dạy .,negative,lecturer
+nên có hướng dẫn chi tiết .,negative,lecturer
+"giảng viên nhiệt tình , kỹ năng truyền đạt tốt .",positive,lecturer
+"đầu tư vật chất , có nhiều hoạt đông thú vị .",positive,lecturer
+nên giảng dạy phương pháp làm bài trước khi đưa ra bài tập .,negative,lecturer
+"khoa wzjwz10 với số lượng sinh viên khá đông mà đôi khi lại có thêm những bạn từ khoa khác vào học , nên giảng đường 2 trở nên đông kín .",negative,program
+với lại môn học này dạy quá chán .,negative,program
+"thầy vui tính , giảng bài hấp dẫn , mới mẻ .",positive,lecturer
+"khi báo cáo đồ án cuối kỳ , thì do sự phân công , và trong một nhóm thì ai cũng có điểm yếu và điểm mạnh nên mới tạo thành một nhóm để giúp đỡ nhau , nhưng thầy làm khó các thành viên .",negative,program
+giảng viên tận tình giúp đỡ sinh viên .,positive,lecturer
+thầy rất quan tâm sinh viên luôn cho điểm đúng thực lực .,positive,lecturer
+nhưng em nghĩ thời gian và phòng học nên cố định hơn và được thông báo rõ ràng .,negative,program
+"vui vẻ , nhiệt tình , tận tụy .",positive,lecturer
+giải đáp thắc mắc của sinh viên nhanh chóng .,positive,lecturer
+bài giảng mang tính thực tiễn và ứng dụng cao .,positive,program
+"đưa ra ít ví dụ về những trường hợp đặc biệt cần phải lưu ý , nên dành nhiều thời gian cho những phần quan trọng , đưa ra ví dụ song song với việc demo trực tiếp trên máy tính trong lúc giảng dạy như vậy hiệu quả giảng dạy sẽ tốt hơn .",negative,lecturer
+dạy học .,neutral,lecturer
+em rất mong phòng đào tạo cho em biết được tên giảng viên khi đăng ký môn học để sau nay em còn đc học thầy wzjwz155 .,negative,lecturer
+"cô vui tính , tận tình và cách giảng giải dễ hiểu .",positive,lecturer
+"đúng giờ , giảng bài kỹ .",positive,lecturer
+chưa giới thiệu cụ thể các tài liệu cho sinh viên đọc thêm .,negative,lecturer
+ứng dụng thực tế vô giảng dạy .,positive,program
+"dạy sát chương trình thi , nhiệt tình .",positive,lecturer
+tổ chức quá nhiều hoạt động thừa trên lớp không phù hợp với trình độ của sinh viên .,negative,lecturer
+thầy cho thuyết trình làm đồ án theo nhóm nên giúp em có khả nang truyền đạt kỹ năng work group nâng cao .,positive,lecturer
+"thầy dạy nhiệt tình , cho làm nhiều bài tập để hiểu sâu và có khả năng vận dụng được kiến thức .",positive,lecturer
+giáo viên giảng dạy dễ hiểu .,positive,lecturer
+em có góp ý với thầy ở vấn đề thuyết trình lấy điểm giữa kỳ doubledot một số bạn trình bày về công nghệ hay kỹ thuật rất hay nhưng do cách trình bày nên các bạn ở dưới chưa hiểu lắm .,negative,lecturer
+"thầy wzjwz184 dạy hay , dễ hiểu , truyền đạ nhiều kiến thức chuyên môn lẫn kiến thức cuộc sống , đi làm cho sinh viên , có nhiều lời khuyên .",positive,lecturer
+"môn lập trình mạng căn bản sử dụng ngôn ngữ csharp nhưng trước đó nhà trường không đề xuất cho sinh viên học môn này trước , gây nhiều khó khăn cho sinh viên khi học môn mới .",negative,program
+cô nên thêm nhiều bài tập áp dụng lý thuyết hơn .,negative,lecturer
+còn nhiều slide .,negative,lecturer
+tăng chất lượng các thiết bị phục vụ giảng dạy .,negative,facility
+đôi lúc đi trễ tầm 30 phút .,negative,lecturer
+"giảng viên thực hành nên hướng dẫn sinh viên thực hành một cách cụ thể , không nên ngồi làm việc riêng rồi khi sinh viên gọi hỏi thì lại tỏ thái độ khó chịu .",negative,lecturer
+"thầy đưa ra những dạng bài hay , bao quát kiến thức cho sinh viên .",positive,lecturer
+sau khi qua môn này chắc sẽ không học thầy nữa .,negative,other
+"giữa kỳ cộng max là 4 điểm , rồi lại cộng tiếp cho quá trình , giờ thì lại điểm quá trình tính trong 1 bài , không làm được , ít điểm cộng thì đành chịu .",negative,lecturer
+nâng cao trang thiết bị phòng học doubledot quạt .,negative,facility
+điều này tạo cho sinh viên sự chủ động trong học tập .,neutral,program
+nhưng có một vấn đề mà em chưa thích đó là đi sâu vào lý thuyết quá nhiều chưa có giảng dạy cho chúng em nhiều về cách cấu thành sản phẩm .,negative,program
+thầy giảng rất ít .,negative,lecturer
+thầy dạy đôi khi hơi chán cần thay đổi phương pháp giảng dạy .,negative,lecturer
+cô rất nhiệt tình và vui tính .,positive,lecturer
+mong thầy cô xem lại cách giảng dạy môn này .,negative,lecturer
+"giảng viên rất nhiệt tình thậm chí dạy lố giờ , dư buổi nhưng vẫn không đảm bảo đủ số bài của chương trình học , không giảng giải bài học một cách rõ ràng , khi dạy chỉ mở slide và đọc tất cả những gì trên slide bài giảng nhưng không giảng thêm gì nhiều hoặc nếu có giảng thêm thì cũng khá khó hiểu , khi sinh viên hỏi lại thì thường chỉ nói lại những gì đã nói lần trước mà không giảng thêm để sinh viên có thể hiểu được bài , slide bài giảng được chuẩn bị sơ sài và có nhiều sai sót , giảng viên thường xuyên ra ngoài nghe điện thoại , ăn , hút thuốc trong giờ dạy , thường xuyên dạy các kiến thức nâng cao trong khi sinh viên chưa hiểu hết kiến thức cơ bản , thường hay nói chuyện nặng lời với sinh viên trong lớp .",negative,lecturer
+"bài giảng và bài tập trọng tâm , chi tiết .",positive,program
+"phân chia chương trình hợp lý hơn , chia nhỏ lượng kiến thức cần đạt được .",positive,program
+cô nhiệt tình giải đáp thắc mắc cho sinh viên .,positive,lecturer
+"thầy hướng dẫn thực hành tốt , nhiệt tình .",positive,lecturer
+"cô wzjwz228 rất nhiệt tình với sinh viên trong giờ lên lớp , rất hay khuyến khích sinh viên đặt câu hỏi , hay tự đặt những câu hỏi xây dựng khuyến khích sinh viên tìm hiểu trả lời .",positive,lecturer
+dạy cho sinh viên biết nhiều về thực tế .,positive,lecturer
+cô than hoài à .,negative,lecturer
+"nội dung môn học không phù hợp , quá nhiều lý thuyết , lý thuyết quá rườm rà và không phù hợp với truyền thống việt nam .",negative,program
+cô vui vẻ và nhiệt tình .,positive,lecturer
+"phương pháp giảng dạy tốt , dễ hiểu .",positive,lecturer
+"cô nhiệt tình , thân thiện với sinh viên .",positive,lecturer
+vấn đề nghe từ thiết bị không tốt lắm .,negative,facility
+giảng viên hay đến muộn .,negative,lecturer
+cách giảng cô rất phức tạp vẫn chưa ngắn gọn xúc tích gây khó hiểu ở các công thức tính toán .,positive,lecturer
+cách dạy học tăng khả năng tự vận động của học sinh .,positive,lecturer
+đây là môn học khó và cần phải có nền tảng kiến thức từ những môn học cơ bản hơn nó nhưng chương trình k6 thì không có môn nào cơ bản về tín hiệu trước môn xử lý tín hiệu số .,negative,program
+"giáo viên nhiệt tình , truyền đạt kiến thức tận tâm .",positive,lecturer
+thầy dạy còn khá khó về thời lượng .,negative,lecturer
+hướng dẫn chi tiết nhiệt tình .,positive,lecturer
+em rất thích .,positive,other
+có tinh thần trách nhiệm .,positive,lecturer
+các dụng cụ còn hư nhiều .,negative,facility
+"cô nói hơi dài dòng , đôi chỗ hơi khó hiểu .",negative,other
+thầy thường chạy trước chương trình học lý thuyết .,negative,lecturer
+"thêm nhiều ví dụ cụ thể , dễ hiểu cho sinh viên vì năm đầu tiên ở trường học môn nhập môn lập trình có nhiều bạn còn bỡ ngỡ , khó hiểu được những kiến thức có thể chưa bao giờ gặp qua này .",negative,program
+cho các nhóm tự nghiên cứu và thuyết trình .,neutral,lecturer
+"số lượng sinh viên lớp nên tối đa là 30 , vì đây là môn học cá biệt cần sự tương tác thực tế .",negative,program
+giảng viên thường đến lớp trễ .,negative,lecturer
+"phiền thầy chỉ giới thiệu nhanh chóng , không cần dành quá nhiều thời gian cho nó , em nghĩ mọi người đã biết từ trước những nội dung cơ bản như vậy ( ít nhất là những người em quen ) .",negative,lecturer
+thầy vô cùng hài hước tạo không khí lớp học vui vẻ cho sinh viên .,positive,lecturer
+cô dạy rất tốt và rất nhiệt tình .,positive,lecturer
+"giảng viên giảng chưa được thu hút , gây nhàm chán .",negative,lecturer
+nên cần giúp sinh viên thực hành nói nhiều hơn và phương pháp trau dồi từ vựng sáng tạo .,negative,program
+"cần nâng cấp phòng học , máy chiếu .",negative,facility
+"có slide bài giảng , giảng kỹ bài .",positive,lecturer
+"cô dạy hay , nhiệt tình , cung cấp đầy đủ kiến thức của bộ môn .",positive,lecturer
+bài giảng hay .,positive,program
+giảng viên tận tình .,positive,lecturer
+"giảng viên vui tính , hòa đồng .",positive,lecturer
+bằng chứng là thầy wzjwz56 dạy thay thầy wzjwz57 ở lớp wzjwz58 .,neutral,other
+giáo viên trao đổi với sinh viên hoàn toàn bằng tiếng anh .,neutral,lecturer
+cần thêm tài liệu thực hành .,negative,program
+tận tình chỉ dạy .,positive,lecturer
+cách ứng dụng lý thuyết vào thực tế .,neutral,lecturer
+"đúng giờ , sát chương trình .",positive,lecturer
+"phòng học còn nóng và bụi bặm , máy chiếu tuy nhìn được nhưng như vậy vẫn là mờ , nếu ngồi xa hay hôm nào sáng quá sẽ khó thấy .",negative,facility
+"thầy dạy rất hay , nhiệt tình với sinh viên .",positive,lecturer
+hầu hết em và các bạn đều không đi thực hành .,negative,other
+giảng viên nên tương tác với sinh viên nhiều hơn nữa .,negative,lecturer
+thầy rất thân thiện !,positive,lecturer
+không có gì .,neutral,other
+rất bổ ích và thú vị .,positive,other
+cải tiến trang thiết bị thường xuyên hơn .,negative,facility
+thầy giảng dễ hiểu .,positive,lecturer
+"ngoài ra , các mặt còn lại em không có ý kiến .",neutral,other
+"giảng viên truyền đạt tốt , khơi gợi cho sinh viên tự tìm hiểu kiến thức .",positive,lecturer
+"thầy truyền đạt kiến thức rất hay , và dễ hiểu .",positive,lecturer
+môn học rất hay và bổ ích .,positive,program
+không có điều nào không hài lòng .,neutral,other
+nên rèn kỹ năng nghe và nói nhiều hơn cho sinh viên .,negative,program
+thầy có kiến thức chuyên môn sâu .,positive,lecturer
+cách thầy giảng rất hấp dẫn và dễ hiểu .,positive,lecturer
+"giảng dạy tận tình , đi đúng giờ .",positive,lecturer
+"cô dạy quá nhanh , lý thuyết dạy quá nhanh và quá nhiều mà cũng không cần thiết lắm .",negative,lecturer
+khá ổn .,positive,other
+thầy giảng hơi khó hiểu hay tại bài học khó hiểu ?,negative,lecturer
+"giảng viên vui vẻ , nhiệt tình .",positive,lecturer
+nên để giảng viên dạy lý thuyết cả thực hành sẽ logic hơn .,negative,program
+sinh viên tìm tòi cách khác để có được kết quả giống nhưng không chấp nhận .,negative,program
+"giảng viên thân thiện , hòa đồng với sinh viên .",positive,lecturer
+"thầy rất tận tâm , tận tình với học sinh .",positive,lecturer
+dạy hơi khó hiểu .,negative,lecturer
+cô giảng hay .,positive,lecturer
+giang dạy quá nhiệt tình và tâm huyết truyền đạt cho học sinh kiến thức của cô .,positive,lecturer
+"thầy tận tâm , nhiệt tình , dạy kỹ bài , hướng dẫn giải bài cụ thể .",positive,lecturer
+giảng viên tận tâm nhiệt tình .,positive,lecturer
+"giảng viên nhiệt tình , tương tác tích cực với sinh viên .",positive,lecturer
+giảng viên nhiệt tình giảng giải những thắc mắc của sinh viên .,positive,lecturer
+thầy tạo điều kiện cho sinh viên có thê hoàn thành tất cả các bài lab .,positive,lecturer
+nên cải tiến phòng thực hành .,negative,facility
+thầy chấm điểm hơi mắc .,negative,lecturer
+có dạy thêm ngôn ngữ trung rất thú vị .,positive,lecturer
+"cách giảng dạy của giảng viên dễ tiếp thu , dễ hiểu .",positive,lecturer
+"thường xuyên đi trễ , giảng dạy không nhiệt tình , dạy khá lang mang , không đảm bảo đúng tiến độ học tập .",negative,lecturer
+cô dễ thương quá coloncc .,positive,lecturer
+nêu lên những ví dụ rất hay giúp sinh viên dễ nắm bắt kiến thức .,positive,program
+giảng viên thường xuyên đi trễ vào những buổi gần cuối .,negative,lecturer
+giảng viên giảng dạy khó tiếp thu .,negative,lecturer
+"giảng viên dạy hay , nhiệt tình .",positive,lecturer
+"rất hài lòng , cô dạy rất vui vẻ .",positive,lecturer
+cô nói nhanh và nhiều khiến em bị  quá tải  .,negative,lecturer
+"bổ sung nhiều kiến thức thực hay , nâng cao cho sinh viên .",positive,program
+đảm bảo số giờ lên lớp .,positive,lecturer
+thầy chỉ dạy một buổi nên không đánh giá được .,negative,lecturer
+"cô rất nhiệt tình , cô còn có phương pháp giảng dạy gây hứng thú cho người học .",positive,lecturer
+cần có lập trình thực nghiệm các bước và xem rõ cách hoạt động chương trình demo .,negative,program
+"cần có các bài lab thực hành để trực quan hơn , sát với thực tế làm việc ở các công ty phần cứng .",negative,program
+"giảng viên vui tính , nhiệt tình .",positive,lecturer
+chưa truyền đạt được kiến thức .,negative,lecturer
+cần thêm tài liệu .,negative,program
+thầy giúp học sinh giải nhiều bài tập .,positive,lecturer
+"nhiệt tình , bài giảng tạo cảm hứng cho sinh viên học tập .",positive,lecturer
+chỉ nhìn mỗi khía cạnh làm slide lý thuyết mà đánh giá cả đồ án của sinh viên một cách rất hời hợt .,negative,program
+tóm lại em rất hài lòng .,positive,other
+"giảng viên giảng bài còn mơ hồ , phức tạp .",negative,lecturer
+"cô dạy rất nhiệt tình và vui vẻ , dạy chi tiết từng tí một .",positive,lecturer
+mong thầy sử dụng micro .,negative,lecturer
+"cô đến lớp đúng giờ , giảng dễ hiểu .",positive,lecturer
+"giảng viên tạo áp lực quá lớn cho sinh viên trong khi đây là môn học đòi hỏi sự năng động , sáng tạo .",negative,lecturer
+"cô dạy rất hay và kỹ , dành nhiều thời gian sửa bài tập .",positive,lecturer
+cho bài tập nhiều giúp học sinh có bài tập về nhà làm .,positive,lecturer
+giáo viên truyền đạt kiến thức mập mờ cho sinh viên .,negative,lecturer
+"có cảm giác hà khắc , khá khó chịu .",negative,lecturer
+nói chung là em không thể tiếp thu bài trên lớp .,negative,program
+"thầy chăm lên lớp giảng dạy , tận tình .",positive,lecturer
+"dạy nhiệt tình , hiệu quả .",positive,lecturer
+"cô điểm danh mình em lúc đầu giờ , cuối giờ mới điểm danh mấy bạn kia colonsadcolon .",negative,lecturer
+giải tích 2 .,neutral,other
+slide bài giảng hay .,positive,program
+"nên có một số buổi ngoại khóa bên ngoài , tiếp cận thực tiễn , giao tiếp với người nước ngoài .",negative,program
+giảm tảibỏ những phần không thật sự cần thiết .,negative,program
+thiếu hiệu quả không phù hợp với môn học .,negative,program
+dạy lý thuyết tốt .,positive,lecturer
+"không khí học tập sôi nổi , dễ tiếp thu kiến thức .",positive,lecturer
+dạy rất dễ hiểu .,positive,lecturer
+"thầy hiền , nhiệt tình .",positive,lecturer
+kiến thức thực cần tế hơn .,negative,program
+"nhiệt tình truyền đạt kiến thức , hài hước .",positive,lecturer
+đôi lúc thầy giảng hơi nhanh .,negative,lecturer
+đầu tư thêm máy móc hiện đại .,negative,lecturer
+"thầy dạy những nội dung cần thiết , ngắn gọn và dễ hiểu .",positive,lecturer
+giúp đỡ sát sao khi sinh viên gặp vấn đề khó trong thực hành .,positive,lecturer
+đa số sinh viên tự học và không liên hệ đến giảng viên thực hành .,negative,other
+phân bổ thời gian hoàn thành môn học hợp lý hơn nữa .,negative,program
+thầy dạy rất nhiệt tình và sẵn sàng giải đáp .,positive,lecturer
+thầy rất quan tâm đến điểm số của sinh viên .,positive,lecturer
+"nhiệt tình , giảng hiểu bài .",positive,lecturer
+"cô dạy hấp dẫn , thú vị !",positive,lecturer
+quan tâm sinh viên .,positive,lecturer
+giảng bài hay !,positive,lecturer
+"đây làm môn học cần thực hành nhiều , cần tăng thêm số buổi thực hành .",negative,program
+"giảng dạy dễ hiểu , nhiệt tình với sinh viên .",positive,lecturer
+"giảng viên dạy nhiệt tình , dễ hiểu !",positive,lecturer
+thầy hiền dễ tính .,positive,lecturer
+nên để đồ án cuối kỳ các sinh viên được phép làm nhóm .,negative,lecturer
+"giảng viên không bao giờ đi dạy , toàn nhờ sinh viên dạy thay , không có trách nhiệm , môn học này chẳng giúp ích được gì , thanks .",negative,lecturer
+"giáo trình anh văn dường như không giúp ích cho công nghệ thông tin cũng như những khả năng giao tiếp của sinh viên , sinh viên trung bình khó có thể đạt 5 điểm ở các chương trình anh văn .",negative,program
+giáo viên rất nhiệt tình trong việc giải đáp thắc mắc cho sinh viên .,positive,lecturer
+nhiệt tình và quan tâm học sinh .,positive,lecturer
+diễn đạt trong giảng dạy không được tốt lắm .,negative,lecturer
+thầy chưa hỗ trợ lớp trong việc giải đáp các câu hỏi cũng như tạo điều kiện cho sinh viên học hỏi .,negative,lecturer
+giới thiệu những kiến thức mới cho sinh viên .,positive,lecturer
+"vui , hay .",positive,other
+không biết thầy wzjwz260 là thầy nào ?,negative,other
+nên có nhiều bài tập cho sinh viên tham khảo .,negative,program
+hầu như giảng viên không giảng mà chỉ dịch slide do slide viết bằng tiếng anh .,negative,lecturer
+"giảng viên giảng kỹ , dễ hiểu .",positive,lecturer
+luôn giải thích chi tiết vấn đề thắc mắc của sinh viên .,positive,lecturer
+cho ít đồ án thôi .,negative,lecturer
+thầy cho chép quá nhiều .,negative,lecturer
+"trang thiết bị phục vụ còn hạn chế , không có nhiều thời gian trực tiếp thực hành .",negative,facility
+giáo viên dạy rất tệ .,negative,lecturer
+giáo viên cần bổ sung thêm các bài tập liên quan nhiều hơn để các bạn sính viên nắm rõ hơn .,negative,lecturer
+"môn học này có định hướng thiên về lý thuyết logic nên em nghĩ nên học theo hình thức trao đổi và tham khảo , không nên đặt nặng đồ án và bài tập .",negative,program
+"dạy dễ hiểu , tạo cảm giác thân thiện với học sinh !",positive,lecturer
+giảng viên dạy tận tâm .,positive,lecturer
+đồ án lớn không có trong phần giảng dạy khiến sinh viên khó khăn trong việc thực hiện .,negative,program
+thầy đi vào trễ nhưng lại về muộn .,negative,lecturer
+thầy nên sử dụng micro để giảng .,negative,lecturer
+tốc độ dạy khá nhanh khiến việc tiếp thu không hiệu quả .,negative,lecturer
+dạy sát với chương trình .,positive,lecturer
+"vui vẻ , nhiệt tình , giảng dễ hiểu .",positive,lecturer
+thời gian nộp bài thực hành quá ngắn .,negative,program
+cô dạy dễ hiểu và thân thiện .,positive,lecturer
+"thầy có kiến thức rất rộng , có thể giải thích mọi thắc mắc của sinh viên .",positive,lecturer
+"rèn luyện cho sinh viên kỹ năng làm việc nhóm , nâng cao tính chủ động của sinh viên .",positive,lecturer
+"cô có ôn tập , sửa bài đầy đủ .",positive,lecturer
+nghiêm khắc nhưng rất tận tình .,positive,lecturer
+"giảng viên lý thuyết nên cải thiện kỹ năng truyền đạt , và chuẩn bị bài giảng tốt hơn .",negative,lecturer
+quá ít thiết bị cho sinh viên thực hành .,negative,facility
+không có ý kiến gì .,neutral,other
+thời gian lên lớp ít nhưng tiếp thu nhiều .,positive,lecturer
+tài liệu giảng dạy đầy đủ .,positive,program
+luôn luôn đúng giờ .,positive,lecturer
+"cô giảng dạy rất chăm chú , tận tình giải đáp thắc mắc của sinh viên .",positive,lecturer
+thầy rất tận tâm và thương yêu sinh viên .,positive,lecturer
+nhiều kinh nghiệm .,positive,lecturer
+thầy có kiến thức nhiều .,neutral,lecturer
+"ngoài việc giảng dạy , do môn này là môn nhập môn máy học , nếu thầy có thể giới thiệu về các tài liệu về các loại máy học , áp dụng , hơn đơn thuần cưỡi ngựa xem hoa .",negative,lecturer
+"thầy có slide , nhưng làm mất thời gian vì quá trình viết bảng .",negative,lecturer
+thầy giảng còn hơi khó hiểu .,negative,lecturer
+"cô bớt xinh lại giúp em một tí , làm em hơi mất tập trung mỗi lần nhìn cô giảng .",negative,lecturer
+"cô vui tính , dễ gần , nhiệt tình .",positive,lecturer
+bài tập quá nhiều .,negative,program
+"thầy dạy tốt , có tâm huyết với an toàn thông tin .",positive,lecturer
+"chưa tạo động lực học cho học sinh , chưa hướng dẫn rõ ràng cho sinh viên làm đồ án .",negative,lecturer
+cô dạy rất có tâm và quan tâm đến sinh viên .,positive,lecturer
+đó là nội dung chương trình học rất tốt .,negative,program
+nên đi sâu vào vấn đề .,negative,program
+"cô nhiệt tình với học sinh , bài giảng dễ hiểu .",positive,lecturer
+"cần nâng cấp các phòng học thực hành , phòng máy quá tệ để thực hành , các phiên bản phần mềm cũ .",negative,facility
+những nội dung mà cô muốn truyền đạt đều rất có ích cho quá trình làm việc sau này của sinh viên !,positive,lecturer
+thầy tận tâm nhiệt huyết .,positive,lecturer
+"giảng viên không sử dụng course gây khó khăn cho sinh viên , hay chém gió , giọng giảng không rõ ràng .",negative,lecturer
+trong lúc giảng thầy thường xuyên viết & vẽ lên bảng .,positive,lecturer
+đi dạy đầy đủ .,positive,program
+thầy lo giảng quên cả giờ giấc .,positive,lecturer
+cô rất nhiệt tình trong việc giảng dạy .,positive,other
+giảng viên khá vui tính .,positive,lecturer
+"giảng viên tận tâm , nhiệt tình , quan tâm sinh viên .",positive,lecturer
+"nói chuyện rất nhỏ , cách truyền đạt chưa đến với sinh viên .",negative,lecturer
+"thầy dạy khá hay nhưng cho bài tập đột xuất , đôi khi thầy nói các vấn đề hơi nhanh .",negative,lecturer
+"thầy là người rất hài hước , nhiệt huyết và cách truyền đạt rất hay .",positive,lecturer
+cảm ơn thầy rất nhiều .,neutral,lecturer
+"đề thi sử dụng google dịch , nửa tiếng anh nửa tiếng việt .",negative,program
+"thuyết trình nhiều như thế chưa có hiệu quả lắm , hi vọng cô sẽ cải thiện hình thức dạy và học .",negative,lecturer
+"năm ngoái học đã có bao nhiêu bạn bị rớt và suýt bị rớt vì môn này , nhưng năm nay cô không rút kinh nghiệm cách dạy thậm chí còn khó hơn năm ngoái .",negative,lecturer
+"tận tâm nhiệt tình , lắng nghe sinh viên .",positive,lecturer
+"cách dạy về môn học chưa được hợp lý , nên dạy cơ bản trước khi dạy nâng cao .",negative,lecturer
+em nghĩ cần tăng thêm thời gian học thực hành .,negative,program
+tuyệt vời .,positive,other
+em nghĩ giảng viên nên cho bài và sửa bài tập nhiều hơn .,negative,lecturer
+"giảng viên vui tính , tận tâm , nhiệt tình !",positive,lecturer
+phòng máy cũ cần nâng cấp .,negative,facility
+"thầy nên có đề mẫu , bài mẫu .",negative,lecturer
+cô không tập trung trong giờ giảng .,negative,lecturer
+"thầy rất nhiệt tình , giúp đỡ sinh viên rất nhiều trong quá trình hoàn thành đồ án .",positive,lecturer
+"và chuột máy tính trong phòng lab cũng hư khá nhiều , đề nghị nhà trường thay thế để có nhiều máy tính phục vụ học tập cho sinh viên .",negative,facility
+"giáo viên giảng dạy tận tâm , dễ hiểu , truyền đạt và liên hệ thực tiễn .",positive,lecturer
+giảng viên tận tụy có tâm huyết đối với sinh viên .,positive,lecturer
+"giảng viên dạy rất nhiệt tình , tuy nhiên việc dạy quá giờ lên lớp sẽ khiến nhiều sinh viên gặp khó khăn trong việc học , giảng viên dạy vượt qua tiết 4 và 5 khiến nhiều sinh viên phải sang học tiết khác và bỏ qua rất nhiều bài giảng dẫn đến việc học không hiệu quả .",negative,lecturer
+em có suy nghĩ là thầy không tin các bài tập do chính các bạn nữ làm .,negative,lecturer
+tạo thêm nhiều ví dụ ngoài thực tiễn .,negative,program
+"giảng viên giảng dạy nhiệt tình , phương pháp dạy hay , chỉ dẫn hiệu quả .",positive,lecturer
+không hài lòng điểm gì cả !,negative,other
+"cần có các bài lab thực hành , để sinh viên thành thạo cũng như các thao tác ứng dụng .",negative,program
+cách dạy của thầy wzjwz170 vô cùng chán đối với môn học kỹ năng như thế này .,positive,lecturer
+"thầy luôn hướng dẫn sinh viên giải bài tập bằng nhiều cách , suy luận logic .",positive,lecturer
+sự nhiệt tình thầy dạy dễ hiểu vui vẻ .,positive,lecturer
+cần tạo điều kiện cho sinh viên tăng vốn ngoại ngữ giao tiếp .,negative,program
+"thầy dạy dễ hiểu , dễ tiếp thu .",positive,lecturer
+thầy hay đến lớp muộn sao với sinh viên .,negative,lecturer
+giảng dạy nhiệt tình hơn .,negative,lecturer
+thầy sáng tạo .,positive,lecturer
+cô rất vui tính giảng bài rất hay .,positive,lecturer
+cho nhiều bài nghe hay .,positive,lecturer
+nhiệt tình và tận tâm với sinh viên .,positive,lecturer
+giảng viên giảng bài rất dễ hiểu .,positive,lecturer
+tìa liệu hướng dẫn thực hành nên cụ thể hơn đối với những lab khó .,negative,program
+có liên hệ những ví dụ thực tế để giảng dạy .,positive,lecturer
+"giảng bài hơi nhanh , tài liệu không rõ ràng , không dùng moodle .",negative,lecturer
+phương pháp dạy không hợp lý .,negative,lecturer
+"cô dạy hay , rất nhiệt tình , luôn giúp đỡ , giải đáp các thắc mắc của sinh viên .",positive,lecturer
+"tận tâm , nhiệt tình , cách giảng dạy hiệu quả .",positive,lecturer
+không muốn hỏi bài thầy vì thầy giải đáp không hiểu .,negative,lecturer
+gây lãng phí .,negative,other
+nên nhiều khi em thấy không thể hiểu .,negative,other
+nên có giáo trình rõ ràng và cơ bản hơn .,negative,program
+nâng cấp trang thiết bị của phòng thực hành .,negative,facility
+"thầy còn nhiều lúc giảng chưa kỹ lướt qua quá nhanh chưa kịp đọc bài , chỉ dẫn chưa rõ ràng .",negative,lecturer
+"có vài chỗ cô giảng còn khó hiểu , những chỗ code khó , dài và rối em mong cô giảng kỹ và nhiều hơn .",negative,lecturer
+thầy dạy rất nhiệt tình và vui vẻ .,positive,lecturer
+giảng viên tận tình với sinh viên .,positive,lecturer
+"nên phân công giảng viên ít công việc ngoài , phân bố thời gian nghỉ lễ hợp lý .",negative,program
+"dù có tìm hiểu nhưng em không thể hiểu hết và nắm bắt hoàn toàn nội dung bài lab , nhưng khi hỏi giảng viên thì em cũng không thu được thông tin gì thêm cả .",negative,lecturer
+cần phải có phương pháp giảng dạy linh hoạt và sáng tạo hơn .,negative,lecturer
+"điểm danh quá nhiều colonsurprise , silde bài giảng cần phải đầu tư nhiều hơn .",negative,program
+giảng dạy rõ ràng .,positive,lecturer
+"thầy dạy giỏi , vui tính .",positive,lecturer
+có liên hệ thực tế qua bài giảng giúp sinh viên nhanh tiếp thu kiến thức .,positive,lecturer
+"thầy dạy hay , vui vẻ .",positive,lecturer
+kiến thức dạy cần được lên kế hoạch kỹ càng chương trình giảng dạy .,negative,program
+giảng viên ít có giải thích các phần bài tập mà chỉ chiếu kết quả trên phần mềm outcomes và lướt lướt cho nhanh để hết tiết .,negative,lecturer
+bám sát nội dung môn học .,positive,program
+thầy có cho bài tập về nhà nhưng chưa hướng dẫn và giải chi tiết vào hôm sau .,negative,lecturer
+"giảng viên nhiệt tình giúp đỡ , tận tâm với công việc .",positive,lecturer
+giảng dạy tốt !,positive,lecturer
+thầy dậy quá nhanh và không sâu nên không nắm chắc được kiến thức .,negative,lecturer
+"vui hiền , dạy hay sinh động , perfect .",positive,lecturer
+"tận tâm , nhiệt tình trong giảng dạy .",positive,lecturer
+"chém gió , nói chuyện quá nhiều , hướng dẫn giải bài tập một cách quá sơ sài .",negative,lecturer
+"thầy dạy rất tốt , cung cấp kiến thức sâu , đủ với khả năng sinh viên .",positive,lecturer
+"chưa đề cập đến nhiều nội dung như đồ họa , tệp , liên kết .",negative,program
+"giảng viên nhiệt tình giải đáp câu hỏi , thắc mắc .",positive,lecturer
+không có ý kiến với giáo viên .,neutral,other
+"giảng viên giảng lý thuyết kỹ trước khi cho làm thực hành , đánh giá điểm hợp lý .",positive,lecturer
+bài giảng chi tiết .,positive,lecturer
+không nên sử dụng slide bằng tiếng anh tí nào .,negative,program
+cô cho rất nhiều ví dụ nên rất dễ hiểu được bài .,positive,lecturer
+thầy vui tính giảng dạy dễ hiểu ân cần .,positive,lecturer
+tăng tính thực tế trong các đồ án hơn một chút là tuyệt vời .,neutral,lecturer
+"dạy khá nhanh , nên chậm lại tí là ok .",negative,lecturer
+chất lượng đào tạo tốt .,positive,program
+quá trình thầy giảng dạy thì hầu hết bọn em chỉ lên nghe thầy nói kiểu nước đổ đầu vịt .,negative,lecturer
+"kiến thức bao quát quá rộng lớn , khó tiếp cận cho người tự học .",negative,program
+"thầy dạy vui tính , dễ hiểu , dễ thương !",positive,lecturer
+làm kiểm tra thường xuyên .,neutral,other
+khả năng diễn đạt bằng tiếng anh thực sự không tốt lắm .,negative,lecturer
+quá chú trọng vào phần listening .,negative,lecturer
+"môn học đề cao tính ứng dụng , vì vậy nên trang bị nhiều cơ sở vật chất và tài liệu nghiên cứu làm ý tưởng cho sinh viên làm đồ án môn học .",negative,facility
+áp dụng thực tiễn .,positive,program
+"áp dụng được các hình ảnh , video clip vào trong quá trình giảng dạy .",positive,lecturer
+"kết quả thực hành , đánh giá chưa quy chuẩn , còn qua loa .",negative,lecturer
+"giảng viên thường giảng dạy quá thời gian của tiết học , nói nhiều và cách nói không thu hút sinh viên .",negative,lecturer
+giảng viên chưa cung cấp kiến thức đầy đủ cho sinh viên .,negative,lecturer
+"giảng viên rất nhiệt tình , tâm lý , dễ thương , luôn luôn tạo nhiều cơ hội ghi điểm cho sinh viên và tạo mọi điều kiện để sinh viên trao đổi , thảo luận về bài giảng trên lớp cũng như kiến thức liên quan đến môn học .",positive,lecturer
+"các máy tính tại phòng thực hành lab khoa wzjwz42 đa phần đều hư hỏng không có chuột , chuột không dùng được , máy bị virus rất nặng .",negative,facility
+không thật sự công bằng và đúng theo yêu cầu .,negative,lecturer
+"giảng viên nhiệt tình , cho bài tập đầy đủ , sử dụng giờ lên lớp hiệu quả và đúng giờ .",positive,lecturer
+môn này hay .,positive,program
+"cô rất vui vẻ , tâm huyết nhiệt tình .",positive,lecturer
+"thầy giảng bài vô cùng thu hút , dễ hiểu , không bị nhàm chán .",positive,lecturer
+giảng viên có thể giải nhiều bài tập và giảng kỹ ở mỗi dạng để sinh viên nắm được bài .,positive,lecturer
+"không tổ chức thi cuối kỳ môn học , vì lý do làm đồ án đã mất rất nhiều thời gian .",negative,program
+giờ thực hành quá ít .,negative,program
+"nói lúc to lúc nhỏ , nghe mệt tai .",negative,lecturer
+"vui , nhiệt tình .",positive,lecturer
+"thầy dạy tận tình , vui tính , dễ trao đổi , kiến thức được thầy truyền đạt rất kỹ càng .",positive,lecturer
+"vui tính , tận tâm !",positive,lecturer
+không có tài liệu học tập .,negative,program
+"giảng nhiệt tình , rèn luyện sinh viên kỹ năng làm việc nhóm , chủ động trong học tập .",positive,lecturer
+"thực hành hay , tuy nhiên cần tìm hiểu thời gian nhiều sinh viên rảnh nhất không thì sẽ có bạn mất bài của môn .",negative,program
+kết hợp thực tế trong giảng dạy .,positive,lecturer
+"nội dung môn học không hay , khá nhàm chán , không xác định được mục tiêu của môn học .",negative,program
+"cô wzjwz20 rất nhiệt tình và tận tâm , nhưng cách cô giảng bài làm nhiều sinh viên khó tiếp thu , tất cả đều có trong slide , cô chủ yếu chỉ nói trong slide , rất khó hiểu .",positive,lecturer
+cho điểm khó .,negative,lecturer
+thời gian học không đúng theo lịch .,negative,program
+"cung cấp đầy đủ hơn về tài liệu và những gì sinh viên cần biết , nên có kênh thông tin để sinh viên giao tiếp với giảng viên .",negative,lecturer
+"giải đáp thắc mắc , cập nhật kiến thức thực tế .",positive,lecturer
+nếu như 5 tiết đó để cho sinh viên làm các dạng bài tập khác nhau do thầy chiếu trên slide thì hay hơn là dùng 5 tiết để ghi tràn lan lý thuyết và số lượng lớn bài tập trùng dạng trên bảng .,negative,lecturer
+nhà trường cần có giáo trình dùng chung cho tất cả các lớp và có một chương trình dạy cụ thể vì mỗi lớp có một kế hoạch học tập riêng mà lại thi chung nên rất khó cho sinh viên .,negative,program
+"thầy nhiệt tình , luôn cập nhật những công nghệ mới cho sinh viên , giúp sinh viên hứng thú hơn trong việc học .",positive,lecturer
+bên cạnh đó lại đòi hỏi chuẩn quá cao trong khi việc truyền đạt thì vô cùng không hiệu quả .,negative,lecturer
+em không có ý kiến .,neutral,other
+giáo viên giải đáp thắc mắc nhiệt tình .,positive,lecturer
+cô dạy hay và rất nhiệt tình .,positive,lecturer
+"cô wzjwz266 nghiêm túc với công việc giảng dạy , dạy tiết nào đáng tiết đó , cung cấp kiến thức đầy đủ cho sinh viên .",positive,lecturer
+"vui tính , luôn giúp đỡ sinh viên khi sinh viên gặp khó khăn .",positive,lecturer
+"giáo trình , bài giảng và tài liệu phục vụ môn học được cung cấp đầy đủ và cập nhật trên hệ thống moodle .",positive,lecturer
+thầy rất rất chi là nhiệt tình .,positive,lecturer
+đề nghị sắp xếp thời gian thực hành nhiều hơn .,negative,program
+giảng viên tận tình chỉ dạy .,positive,lecturer
+áp dụng một vài phương pháp học trao đổi mới trên internet thay vì dựa vào lý thuyết trên sách vở nhiều .,neutral,lecturer
+cô hiền coloncontemn .,positive,lecturer
+"giảng viên trẻ , nhiệt huyết , vui tính , năng động và dễ thương !",positive,lecturer
+thường xuyên trễ 15 - 30 phút .,negative,lecturer
+"thầy giảng dạy nhiệt tình , truyền đạt kiến thức tốt .",positive,lecturer
+mong nhà trường sớm thay máy mới !,negative,facility
+không nên nhiệt tình quá nên xúc tích vào những nội dung cần thiết .,negative,program
+"giảng viên năng động , hoạt bát , tạo hứng thú cho sinh viên trong lớp .",positive,lecturer
+thiếu sót là chưa có đề cương môn học khiến cho việc tìm tài liệu trên mạng rất tràn lan và không biết tìm như thế nào cho hiệu quả !,negative,lecturer
+"cách dạy của cô hết sức tuyệt vời , tạo cảm hứng học tập cho sinh viên .",positive,lecturer
+giọng đọc tiếng anh khó nghe .,negative,lecturer
+"thầy dạy nhiệt tình , thầy dạy tốt , tận tâm , gần gũi với sinh viên .",positive,lecturer
+hệ thống âm thanh sử dụng cho phần  listening  chưa thực sự tốt .,negative,facility
+giảng bài thú vị và sinh động .,positive,lecturer
+xảy ra tai nạn đáng tiếc .,negative,other
+khả năng truyền đạt chưa tốt lắm .,negative,lecturer
+thầy rất tốt và rất tận tâm .,positive,lecturer
+do là hình thức thực hành 2 .,negative,program
+em thích nhất là phần dạy lý thuyết của thầy .,positive,lecturer
+"khi đưa ra ví dụ , cô có thể gợi ý hướng giải để chúng em dễ hiểu bài hơn .",negative,lecturer
+cho học sinh nói nhiều hơn .,negative,other
+"giảng viên giảng dạy rất nhiệt tình , dễ tiếp thu kiến thức .",positive,lecturer
+"cô dạy rất dễ tiếp thu , tận tình , giải thích rất rõ ràng .",positive,lecturer
+kiến thức truyền đạt khá ít .,negative,lecturer
+thầy dạy vui he he .,positive,lecturer
+"cô rất tận tâm , nhiệt tình trong công tác giảng dạy , cô giảng bài rất chi tiết , có các ví dụ cụ thể để minh họa cho từng phần mà cô giảng .",positive,lecturer
+"thầy dạy tận tình , dễ hiểu , luôn quan tâm giúp đỡ sinh viên .",positive,lecturer
+"không có gì không hài lòng , có góp ý xíu là sau này thầy có thể cho tự chọn mcu luôn , lần này thầy chọn sẵn nên đôi khi mất đi một xíu sự thú vị , cho sinh viên chọn luôn mới hay ho , sinh viên sẽ phải tìm hiểu nhiều hơn nữa , xem con chip nào phù hợp nhất .",negative,lecturer
+"giúp giảng viên chủ động truyền đạt các kiến thức đã học một cách cụ thể cho sinh viên bởi thực tế hiện nay sinh viên thường làm các đồ án trong đó không thể hiện được rõ các kiến thức đã học trên lớp , nó thiên về sử dụng kỹ thuật nhiều hơn .",negative,program
+"thầy dạy ổn , đúng với lý thuyết .",positive,lecturer
+"giảng viên tận tâm , nhiệt tình , dễ thương .",positive,lecturer
+tận tình luôn muốn sinh viên hiểu bài .,positive,lecturer
+"các slide bài tập hàng tuần rất đầy đủ , kể cả về nội dung thực hành .",positive,lecturer
+"chi tiết , dễ hiểu .",positive,other
+áp lực nặng .,negative,lecturer
+"cảm ơn thầy , thầy rất nhiệt tình !",positive,lecturer
+giảng viên dạy hơi quá thời gian .,negative,lecturer
+thầy rất nhiệt tình hướng dẫn sinn viên đặc biệt là sửa lỗi sai hay giải bài tập trên lớp .,positive,lecturer
+thầy hay đi trễ .,negative,lecturer
+đánh giá đúng năng lực của sinh viên .,positive,program
+"không nhấn vào trọng tâm , giảng bài hơi khó tiếp thu .",negative,lecturer
+giờ lên dạy .,neutral,lecturer
+hay đi trễ .,negative,lecturer
+tập trung vào nghiên cứu phần kiến thức trọng tâm .,positive,program
+cô có tính cách năng động hòa đồng với học sinh .,positive,lecturer
+số bài thực hành quá nhiều đối với một môn thực hành hình thức 2 .,negative,program
+"giảng dạy nhiệt tình , tận tâm với sinh viên , giảng dễ hiểu , tài liệu cung cấp luôn đầy đủ .",positive,lecturer
+có bài tập thực hành hợp lý cho từng tuần và phù hợp với lý thuyết vừa học xong .,positive,lecturer
+"thân thiện , nhiệt tình , hòa đồng , vui tính , đẹp trai .",positive,lecturer
+thầy dạy rất thoải mái .,positive,lecturer
+"cô rất tận tâm , hết mình với sinh viên .",positive,lecturer
+"nhiệt tình , chia sẻ kinh nghiệm học tập .",positive,lecturer
+có kiến thức cao .,positive,lecturer
+"giảng viên tận tâm , thân thiện gần gũi .",positive,lecturer
+"cô nói nhanh , liên tục nhiều khi em không thể nghe kịp .",negative,lecturer
+không nên cho thi môn này .,negative,program
+dạy gì thi đó .,neutral,lecturer
+thầy rất nhiệt tâm .,positive,lecturer
+"giảng viên luôn cố gắng liên hệ thực tế nhiều nhất có thể , giúp sinh viên hiểu hơn về thực tiễn hơn là chỉ tập trung vào lý thuyết của bài học .",positive,lecturer
+giảng viên rất nhiệt tình trong giảng dạy cũng như giải đáp thắc mắc của sinh viên .,positive,lecturer
+phòng học gần tòa nhà đang xây gây ảnh hưởng đến các bài nghe của môn học này .,negative,facility
+"thầy dạy rất dễ hiểu , đơn giản sát với thực tế .",positive,lecturer
+giảng viên nói rõ ràng .,positive,lecturer
+"thầy dạy rất chất , em chưa thấy thầy nào dạy chính trị hay hơn thầy .",positive,lecturer
+"dạy nhiệt tình , thân thiện .",positive,lecturer
+dãy bàn chính giữa không có quạt .,negative,facility
+thời gian học không đảm bảo .,negative,program
+"có nhiều hoạt động theo nhóm , tăng tính đoàn kết .",positive,lecturer
+"thêm các phần ứng dụng của danh sách liên kết stack , queue và bảng băm .",negative,program
+"vui vẻ , nhiệt tình , tạo cơ hội cho sinh viên được gắn kết cũng như trau dồi kỹ năng nói tiếng anh nhiều hơn .",positive,lecturer
+"em học không tốt , em nghỉ nhiều buổi thực hành , còn lý thuyết thì em khá vững .",negative,other
+dạy vui vẻ .,positive,lecturer
+thầy nhiệt tình giảng dễ hiểu không nhàm chán .,positive,lecturer
+thầy dạy ngắn gọn dễ hiểu .,positive,lecturer
+thầy đi bài giảng hơi nhanh .,negative,lecturer
+không tận tâm .,negative,lecturer
+tạm ổn .,neutral,other
+"thầy vui tính , nhiệt tình , trả lời mọi thắc mắc của sinh viên .",positive,lecturer
+cách dạy của thầy em rất thích .,positive,lecturer
+chưa kiểm soát được thời gian .,negative,lecturer
+dạy chú trọng đến người học .,positive,lecturer
+nên cung cấp tài liệu giải trắc nghiệm anh văn .,negative,program
+nếu làm chung với nhóm khác thì sẽ dẫn tới khác đề nên không hợp tác được .,negative,program
+đôi khi kẹt xe thầy lại trễ giờ .,negative,lecturer
+"sự tận tâm , nhiệt tình trong giảng dạy của giảng viên .",positive,lecturer
+"giáo viên giảng bài hay , thu hút .",positive,lecturer
+giảng viên truyền đạt hiệu quả .,positive,lecturer
+rất thực tế và cụ thể .,positive,lecturer
+em rất hài lòng về phương pháp dạy này .,positive,lecturer
+"thầy cần giảng giải cách làm đối với từng dạng bài nhiều hơn , rồi sau đó hãy cho nhiều bài tập .",negative,lecturer
+"em nghĩ thầy nên nhiều bài tập hơn và gửi bài giảng qua courses , lập nhóm làm bài để chấm điểm như các lớp khác .",negative,lecturer
+quạt trong phòng học chưa đáp ứng tốt .,negative,facility
+thầy dạy hay và nhiệt tình .,positive,lecturer
+"thầy dạy rất kỹ , rất chi tiết .",positive,lecturer
+"cô dạy nhiệt tình , dễ hiểu , đảm bảo cho sinh viên hiểu rõ lý thuyết .",positive,lecturer
+không triển khai slide bài giảng trên moodle .,negative,lecturer
+"giảng viên giảng dạy nhiệt tình , tạo ra hoạt động vui nhộn .",positive,lecturer
+phản hồi nhanh các thắc mắc của sinh viên .,positive,lecturer
+có lẽ cô nên ra nhiều bài tập về nhà hơn cho các bạn trong lớp .,negative,lecturer
+"em thấy có một số buổi học kéo dài , có buổi kéo dài tới gần 12h .",negative,lecturer
+"thầy nói lan man khá nhiều , khiến sinh viên không biết đâu là phần nội dung chính .",negative,lecturer
+"dạy tận tâm , nhiệt tình .",positive,lecturer
+cho bài khó .,negative,lecturer
+"cô dạy rất hay , chậm và kỹ càng , giúp chúng em hiểu sâu hơn về bài giảng .",positive,lecturer
+buổi dạy của thầy hay bị gián đoạn .,negative,lecturer
+bên cạnh việc giảng dạy thầy còn rất kể nhiều câu chuyện những chiêm nghiệm trong cuộc sống cho sinh viên nghe .,positive,lecturer
+mong nhà trường sẽ có nhiều biện pháp để tăng cường thêm các trang thiết bị và cơ sở vật chất để phục vụ tốt hơn cho việc học tiếng anh của sinh viên .,negative,facility
+giáo viên giảng dễ hiểu .,positive,lecturer
+"giảng viên rất nhiệt tình , các kiến thức đều được đưa ra hợp lý dễ hiểu và nắm bắt .",positive,lecturer
+bản thân sinh viên chưa từng gặp giảng viên này một lần nào trong khóa học .,negative,lecturer
+"thầy sử dụng tốt hệ thống moodle để trao đổi với sinh viên và những giảng giải mang tính dễ hiểu , gần gũi với sinh viên .",positive,lecturer
+phương pháp dạy giúp sinh viên tiếp thu dễ hơn .,positive,lecturer
+cần tăng cường thêm nhiều bài tập vào nhiều tiết thực hành .,negative,program
+cô dạy rất tận tình dễ hiểu .,positive,lecturer
+nhiều lúc thầy nói hơi nhanh .,negative,lecturer
+"giáo viên dạy kỹ càng , dễ hiểu .",positive,lecturer
+trang bị phòng thí nghiệm để hiểu rõ hơn về thực tế .,negative,facility
+"dạy hay , vui vẻ và gần gũi với sinh viên .",positive,lecturer
+"có nhiều vấn đề còn khó hiểu , khó tiếp cận .",negative,lecturer
+giảng viên chưa thực sự chuẩn bị bài giảng chu đáo trong một số buổi học .,negative,lecturer
+giờ học chưa đảm bảo .,negative,lecturer
+phòng có máy điều hòa .,neutral,facility
+cô không cho đề trước khi thi .,negative,lecturer
+"cô dạy rất nhiệt tình , luôn trao đổi trên lớp và trên website môn học .",positive,lecturer
+phương pháp giảng dạy không nên phụ thuộc hoàn toàn vào việc thuyết trình của sinh viên .,negative,lecturer
+"giảng viên tận tình , dạy minh họa dễ hiểu .",positive,lecturer
+"giáo viên giảng dạy hay , dễ hiểu .",positive,lecturer
+"ra bài tập thì thầy nên sửa , để chúng em đối chiếu kết quả .",negative,lecturer
+cách giảng của thầy chưa thực sự hay và có nhiều sự chuẩn bị cho bài giảng bằng những tình huống thực tế .,negative,lecturer
+"thầy dạy rất có tâm , chấm điểm rất chính xác .",positive,lecturer
+"đưa slide , bài tập lên moodle để sinh viên tham khảo .",neutral,lecturer
+"giảng rất nhiệt tình , cố gắng quan sát sinh viên .",positive,lecturer
+"nên cho bài tập theo hình thức file , thay vì chép bảng ( chỉ nên chép bảng bài học thôi ) .",negative,program
+giọng thầy hơi khó nghe .,negative,lecturer
+"chương trình dạy quá cũ , chưa hợp lý .",negative,lecturer
+em quen ngồi máy tính tìm hiểu hơn là học môn này buồn ngủ .,negative,lecturer
+điều này thật là  ảo  vì không sinh viên nào làm điều đó .,negative,other
+cô là giáo viên tận tâm nhất trong những người tận tâm nhất .,positive,lecturer
+tăng cường kỹ năng nói nhiều hơn nữa .,negative,program
+"trang bị máy chiếu mới , loa và micro của phòng học , máy tính mới cho phòng lab .",negative,facility
+giảng bài đôi khi hơi khó hiểu .,negative,lecturer
+cô tận tình giải đáp thắc mắc .,positive,lecturer
+"giảng dạy tận tình , bài tập hay .",positive,lecturer
+các máy tính trong phòng lab nên cài đặt thêm phần mềm android studio để phục vụ việc thực hành môn này .,negative,facility
+"nhiệt tình giải đáp những thắc mắc trên lớp , và qua trang web sinh viên .",positive,lecturer
+cho làm nhiều bài kiểm tra hơn .,negative,lecturer
+thầy tương đối khó trong việc nộp bài lab .,negative,lecturer
+tài liệu đầy đủ .,positive,program
+chỉ dẫn tận tình cho sinh viên .,positive,lecturer
+tích cực giúp đỡ sinh viên .,positive,lecturer
+"giảng viên nhiệt tình , vui tính , có tâm .",positive,lecturer
+cô phát âm kém và sai .,negative,lecturer
+"giảng viên nghỉ dạy khá nhiều , không đảm bảo giờ lên lớp .",negative,lecturer
+cung cấp nhiều kiến thức hữu ích liên quan đến ngành .,positive,lecturer
+chu đáo .,positive,lecturer
+trân trọng .,neutral,other
+cô rất dễ .,positive,lecturer
+"giáo trình cấu trúc dữ liệu và giải thuật còn khá nhiều sai sót , mong nhà trường chỉnh sửa và bổ sung lại .",negative,program
+thầy chưa giải đáp thật chi tiết thắc mắc của sinh viên .,negative,lecturer
+"không nên mê gái , nên quan tâm đồng đều tất cả các học sinh .",negative,lecturer
+thầy giảng hay có trọng tâm dễ hiểu .,positive,lecturer
+trong nửa đầu của học kỳ không có giáo viên hướng dẫn thực hành .,positive,lecturer
+thầy dạy hay dễ hiểu cho làm nhiều bài tập thực hành oop nhờ thầy em học tốt hơn .,positive,lecturer
+giáo viên nhiệt tình và vui tính .,positive,lecturer
+"phòng học quá nóng phòng wzjwz96 , lớp em có nhiều sinh viên nhưng chỉ có 2 cái quạt , học anh văn vào buổi chiều bị nắng chiếu mà còn nóng thì em tiếp thu bài rất kém ạ !",negative,facility
+"nhiệt tình , phương pháp giảng dạy hiệu quả .",positive,lecturer
+môn thực hành nên cho những giảng viên có kinh nghiệm giảng dạy để giúp sinh viên có nền tảng về lập trình vì học ngành này thực hành là rất quan trọng .,negative,program
+"phòng thực hành không đảm bảo phục vụ cho môn học , các phần mềm , chương trình không còn phù hợp nữa .",negative,facility
+có hướng dẫn đầy đủ dễ hiểu .,positive,lecturer
+hướng dẫn lab mơ hồ .,negative,lecturer
+"thầy cho chúng em những bài tập mang tính thực hành , thực tiễn cao và em thực sự rất hài lòng .",positive,lecturer
+thầy không dạy nhiều chủ yếu cho sinh viên tự tìm hiểu .,negative,lecturer
+em muốn đổi tên môn học vì tên môn là lập trình c fraction cplusplus nhưng lại học thiên về csharp .,negative,program
+thầy vừa dạy vừa chat hoặc gọi điện thoại thường xuyên .,negative,lecturer
