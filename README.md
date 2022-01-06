@@ -85,9 +85,9 @@ Nếu truyền config_path thì hệ thống sẽ sử dụng thư mục seriali
 ## Deploy model via server api
 chạy app với lệnh sau:
 ```
-python app.py --sent_serialization_dir=model_done/bilstm/sentiment --topic_serialization_dir=model_done/bilstm/sentiment
+python3 app.py 
 ```
-service dự đoán sẽ được chạy qua giao thức http: `http://127.0.0.1:5000/predict` <br>
+service dự đoán sẽ được chạy qua giao thức http: `http://127.0.0.1:8000/infer` <br>
 body gói tin: 
 ```json
 {
